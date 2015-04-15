@@ -5,7 +5,7 @@ date:   2015-04-15
 categories: 
 ---
 {% include _toc.html %}
-Im Kurs *philosophie générale* den ich zur Zeit an der *Université Paul Valery Montpellier* besuche, müssen wir eine Hausarbeit zu einem Textausschnitt der *Kritik der reinen Vernunft* schreiben. Wir dürfen zwischen zwei Ausschnitten wählen. Der erste Textausschnitt ist ein Teil der *Analytik der Begriffe* der ersten Auflage von 1781[^1]. Beim zweiten Text handelt es sich um einen Ausschnitt aus der *Antinomie der reinen Vernunft*, zu finden in der zweiten Auflage von 1787[^2].
+Zur Zeit studiere ich im Rahmen von Erasmus an der *Université Paul Valery Montpellier*. Im Kurs *philosophie générale* behandeln wir die *Kritik der reinen Vernunft* und das erste Projekt, das ich auf diesem Blog erarbeite, ist eine Hausarbeit zu einem kleinen Textausschnitt aus diesem Werk von Immanuel Kant. Zur Auswahl stehen zwei Texte; einer aus der ersten Auflage von 1781[^1] und der andere ist ein Ausschnitt aus der *Antinomie der reinen Vernunft* der zweiten Auflage von 1787[^2]. Entschieden habe ich mich 
 
 [^1]: <span style="font-variant: small-caps">Kant,</span> (Immanuel) *Critik der reinen Vernunft (1781).* Johann Friedrich Hartknoch, Riga 1781. S. 126-128.
     Online in [Wikisource](http://de.wikisource.org/wiki/Critik_der_reinen_Vernunft_%281781%29)  
