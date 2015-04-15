@@ -9,3 +9,4 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+Hallo und herzlich willkommen.
