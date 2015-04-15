@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            philoy
-locale:           en_US
+locale:           de_DE
 url:              http://philippschweizer.github.io/philosophy
 
 
