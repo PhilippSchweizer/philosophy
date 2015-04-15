@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Kant Text I"
 date:   2015-03-22 00:00:00
 categories: 
