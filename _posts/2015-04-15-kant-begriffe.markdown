@@ -17,12 +17,16 @@ D'abord faut-il comprendre le text. Je commence par les notions et le but c'est 
 ## Paragraphe 1
 
 ### sinnliches Anschauungsvermögen / le pouvoir sensible d'intuition  
-> "[...] eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden [...]"  
-> "n’est [...] qu’une réceptivité, qui consiste à être affecté d’une certaine manière par des représentations [...]"  
+> "&hellip; eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden [&hellip;]"  
+> "... n’est ... qu’une réceptivité, qui consiste à être affecté d’une certaine manière par des représentations [...]"  
 
-La traduction de la notion est tout à fait remarquable. Le mot allemand *Anschauung* on traduirait comme conception ou même opinion avis
+La traduction de la notion est tout à fait remarquable. Le mot allemand *Anschauung* on traduirait comme conception ou même opinion ou avis. Ce notion contient autant le processus de se faire un avis que l'avis il-même. Dans ce sens, ca rien a voir avec l'intuition
+
+Kant utilise le notion   
+
 Auf deutsch:  
-Was heißt Anschauung? Zunächst das Verb; etwas *anschauen* bedeutet nichts weiter als etwas zu betrachten oder zu untersuchen. So wird zum Beispiel eine Ärztin zu ihrem Patienten sagen: "Ich werde mir das mal anschauen." Vorläufig kann man also festhalten, dass die *Anschauung* den Prozess des Untersuchens, oder das Ergebnis davon, oder beides zugleich bezeichnet. Im Begriff der *Weltanschauung* ist beides verkörpert: Prozess und Ergebnis einer Betrachtung des Weltganzen
+Was heißt Anschauung? Zunächst das Verb; etwas *anschauen* bedeutet nichts weiter als etwas zu betrachten oder zu untersuchen. So wird zum Beispiel eine Ärztin zu ihrem Patienten sagen: "Ich werde mir das mal anschauen." Vorläufig kann man also festhalten, dass die *Anschauung* den Prozess des Untersuchens und zugleich das Ergebnis davon bezeichnet. So kommt die Ärztin dann zu einer Ansicht oder eben *Anschauung* über den Gesundheitszustand ihres Patienten. Und auch im Begriff der *Weltanschauung* ist diese, man ist versucht zu sagen *dialektische*, Einheit von Prozess und Ergebnis einer Betrachtung am Werk, der des Weltganzen. Prozess und Ergebnis formen hier in einem fortwährenden Hin und Her eine Weltanschauung, welche somit auch eine Anneignung darstellt.  
+Das scheint Kant jedenfalls nicht zu meinen, wenn er von *sinnlicher* Anschauung (als einem Vermögen) spricht.
 
 Im normalen Sprachgebrauch ist der Begriff selten, es ist ein durchaus philosophischer Begriff.
 
