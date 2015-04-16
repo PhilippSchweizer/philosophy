@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Kant Text II"
+title:  "Extrait: Critique de la raison pure d'Immanuel Kant"
 date:   2015-03-23 00:00:00
 categories: 
+tags: [kant, quelle]
 ---
+Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'original allemand. Ils se trouvent dans ...
 
 ### en français
 
