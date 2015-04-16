@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kant - Begriffe"
+title: "essai *Kant* - Les notions"
 modified:
 categories: 
 excerpt:
@@ -14,14 +14,13 @@ date: 2015-04-15T17:16:19+02:00
 
 D'abord faut-il comprendre le text. Je commence par les notions et le but c'est d'être capable de décrire les idées de Kant avec mes propres mots.
 
-## Paragraphe 1
+### le pouvoir sensible d'intuition / sinnliches Anschauungsvermögen  
 
-### sinnliches Anschauungsvermögen / le pouvoir sensible d'intuition  
 > "&hellip; eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden &hellip;"  
 
 > "&hellip; n’est &hellip; qu’une réceptivité, qui consiste à être affecté d’une certaine manière par des représentations &hellip;"  
 
-La traduction de la notion est tout à fait remarquable. Le mot allemand *Anschauung* on traduirait comme conception ou même opinion ou avis. Ce notion contient autant le processus de se faire un avis que l'avis il-même. Dans ce sens, ca rien a voir avec l'intuition
+La traduction de la notion est tout à fait remarquable. Le mot allemand *Anschauung* on traduirait comme conception ou même opinion ou avis. Ce notion contient autant le processus de se faire un avis que l'avis il-même. Dans ce sens, ca rien a voir avec l'intuition comme une connaissance "directe, immédiate de la vérité, sans recours au raisonnement, à l'expérience."
 
 Kant utilise le notion   
 
