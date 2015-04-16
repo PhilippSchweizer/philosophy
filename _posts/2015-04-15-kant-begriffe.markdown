@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le pouvoir sensible d'intuition (*sinnliches Anschauungsvermögen*) chez Kant"
+title: "Le pouvoir sensible d'intuition chez Kant"
 modified:
 categories: 
 excerpt:
