@@ -18,6 +18,7 @@ D'abord faut-il comprendre le text. Je commence par les notions et le but c'est 
 
 ### sinnliches Anschauungsvermögen / le pouvoir sensible d'intuition  
 > "&hellip; eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden &hellip;"  
+
 > "&hellip; n’est &hellip; qu’une réceptivité, qui consiste à être affecté d’une certaine manière par des représentations &hellip;"  
 
 La traduction de la notion est tout à fait remarquable. Le mot allemand *Anschauung* on traduirait comme conception ou même opinion ou avis. Ce notion contient autant le processus de se faire un avis que l'avis il-même. Dans ce sens, ca rien a voir avec l'intuition
