@@ -28,6 +28,5 @@ Dans ce sens, ca rien a voir avec l'intuition comme une connaissance "directe, i
 -->
 </p>
 
-[^1]: Nouveau pour moir: *Weltanschauung* est parfois non traduit en usage, en [France](http://fr.wikipedia.org/wiki/Weltanschauung) et dans le [monde anglo-saxonne](http://en.wikipedia.org/wiki/World_view).
-qu'il peut-être ne faut pas expliquer pour un auditoire philosophi qu'il est utilisé parfois non traduit (dans la philosophie academique?) en , en Angletèrre et aux Etats-Unis.
+[^1]: Nouveau pour moir: *Weltanschauung* est parfois non traduit en usage, en [France](http://fr.wikipedia.org/wiki/Weltanschauung) et dans le [monde anglo-saxonne](http://en.wikipedia.org/wiki/World_view).  
 [^2]: Cette définition dérive du [Larousse](http://www.larousse.fr/dictionnaires/francais/intuition/44033)
