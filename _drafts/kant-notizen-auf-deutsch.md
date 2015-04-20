@@ -3,3 +3,22 @@ Was heißt Anschauung? Zunächst das Verb; etwas *anschauen* bedeutet nichts wei
 Das scheint Kant jedenfalls nicht zu meinen, wenn er von *sinnlicher* Anschauung (als einem Vermögen) spricht.
 
 Im normalen Sprachgebrauch ist der Begriff selten, es ist ein durchaus philosophischer Begriff.
+
+sinnliches Anschauungsvermögen = Rezeptivität = Sinnlichkeit ???
+
+> Das sinnliche Anschauungsvermögen ist eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden &hellip;  
+
+Vermögen der sinnlichen Anschauung ...  ODER sinnliches Vermögen der Anschauung?
+Wessen Vermögen und wer wird hier affiziert?
+
+### Anschauung
+
+Duden
+   : grundsätzliche Meinung, Betrachtungsweise
+   : das Anschauen, Betrachten; Meditation
+   : Vorstellung, Eindruck
+
+### Rezeptivität
+> Die Fähigkeit (Rezeptivität), Vorstellungen durch die Art, wie wir von Gegenständen affiziert werden, zu bekommen, heißt Sinnlichkeit.[^1]
+
+[^1]: Erste Auflage 1781, B33, siehe [wikipedia](http://de.wikipedia.org/wiki/Rezeptivit%C3%A4t)
