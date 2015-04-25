@@ -33,7 +33,14 @@ Quelle est le but de « l’antinomie »?
         ## Conclusion d'extrait
 
 Un résumé / conclusion très court de l’épistémologie de Kant (?)  
-Notre sensibilité (pouvoir sensible d’intuition ?) consiste d’être affecté par des objets. Mais les objets ne sont pas des choses matérielles ou quelque chose “objective”, est-ce veut dire, dehors notre conscience (Lenin). Ils sont objets transcendantal (chez Kant en singular, important?), représentations. Curieusement, Kant suppose une « cause non sensible » à ces représentations, mais elle est « totalement inconnue ». Évidemment, pour il existe un monde dit objective, mais nous sont déconnecté de ça. Mais n'est il pas contradictoire, si Kant dit ensuit, que ces objets transcendantal sont donnés en eux-même, "avant toute expérience." Est-ce que ca veut dire, que la sensibilité est donné en soi-même et qu'elle est "avant tout expérience" donné? Si oui: donné par quoi? Par dieu? Par la nature?
+Notre sensibilité (pouvoir sensible d’intuition ?) consiste d’être affecté par des objets. Mais les objets ne sont pas des choses matérielles ou objective, ça veut dire, dehors et independant de notre conscience (Lenin), mais il s'agit des représentations. Kant suppose une « cause non sensible » à ces représentations, mais elle est « totalement inconnue ». 
+
+Cette cause non sensible n'est pas un objet, parce qu'elle est dehors l'espace et temps qui sont "conditions de la représentation sensible" et pas des categories objectives.
+
+Ils sont objets transcendantal (chez Kant en singular, important?), Kant les appele représentations. 
+"La cause non sensible de ces [objets n'est pas un objet]"
+
+Évidemment, pour il existe un monde dit objective, mais nous sont déconnecté de ça. Mais n'est il pas contradictoire, si Kant dit ensuit, que ces objets transcendantal sont donnés en eux-même, "avant toute expérience." Est-ce que ca veut dire, que la sensibilité est donné en soi-même et qu'elle est "avant tout expérience" donné? Si oui: donné par quoi? Par dieu? Par la nature?
 
 Le pouvoir sensible --> les représentations --> intuition pure de l'espace et du temps --> les représentations = les objets.
 
