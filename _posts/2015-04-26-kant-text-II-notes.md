@@ -6,11 +6,7 @@ categories:
 tags: [kant, quelle]
 ---
 
-Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'original allemand. Ils se trouvent dans ...
-
-### en français
-
-<span style="font-variant: small-caps">Kant</span> (Emmanuel), Critique de la raison pure, Dialectique transcendantale, Antinomie de la raison pure, sixième section, éd. GF, pp. 472/473.  
+Cette contribution (*post*) fait partie de mon travail à l'essai [*Kant et la capacité de la connaissance du monde*](/annonce-kant-essai/). Je toujours fais pas mal de notes à des textes qui j'analyse plus intensif. Voici mes notes pour l'extrait de Kant, qui vous pouvez [lire sans notes](/kant-text-II/) et avec l'original allemand.
 
  
 
@@ -25,6 +21,7 @@ Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'orig
 * il y a "des lois réglant l'unité de l'expérience"
 
 Evidemment, il y a plein de notions, avec Kant opére ici, qui sont déjà expliqué quelque part. Notons quelques questions:  
+
 * où et comment explique Kant le pouvoir sensible d'intuition
 * est-ce qu'il y a une (grande) difference entre *le pouvoir sensible d'intuition* et simplement *l'intuition* ?
 * est-ce que le pouvoir sensible d'intuition peut traduit comme intuition sensible ?
@@ -35,7 +32,8 @@ Evidemment, il y a plein de notions, avec Kant opére ici, qui sont déjà expli
 * la cause non sensible n'est pas un objet, puisque un objet est représenté dans l'espace et le temps qui "sont simplement conditions de la représentation sensible", c'est-à-dire sans eux, nous ne pouvons pas penser (?).
 * l'espace et le temps sont des formes d'intuition pure
 
-Questions  
+Questions:  
+
 * que-ce est que ca veut dire *penser une intuition* ?
 * Si la cause non sensible nous est totalement inconnue, comment nous pouvons savoir qu'elle existe ?
 * quel est le preuve, que l'espace et le temps sont des formes pure de notre intuition et ne sont pas des categories objectives ?
@@ -44,6 +42,8 @@ Questions
 
 * La cause intelligible est l'objet transcendantal.
 
+Questions:  
+
 * Que-ce est que Kant veut dire avec des "phénomènes en général" ?
 * "la cause simplement intelligible" n'est qu'un dispositif supplétif ?
 
@@ -51,7 +51,7 @@ Questions
 
 
 
->Mais les phénomènes ne sont pas donnés en soi conformément à lui: ils ne le sont que dans cette expérience, puisqu'ils sont de simples représentations qui ne renvoient à un objet effectivement réel qu'en tant que perceptions, c'est-à-dire si cette perception s'articule avec toutes les autres selon les règles qui strucurent l'unité de l'expérience.
+>Mais les phénomènes ne sont pas donnés en soi conformément à lui: ils ne le sont que dans cette expérience, puisqu'ils sont de simples représentations qui ne renvoient à un objet effectivement réel qu'en tant que perceptions, c'est-à-dire si cette perception s'articule avec toutes les autres selon les règles qui structurent l'unité de l'expérience.
 
  
 
@@ -59,17 +59,6 @@ Questions
 
 > Cependent, cette dernière série n'est alors représentée comme effectivement réelle que si elle s'inscit dans l'enchaînement d'une expérience possible, et non pas en soi, si bien que tous les événements qui se sont écoulés avant mon existence et depuis un temps immémorial ne signifient pourtant rien d'autre que la possibilité de prolonger la chaîne de l'expérience en régressant à partir de la perception présente, vers les conditions qui la déterminent chronologiquement.
 
-### en allemend[^2]
-
-Das sinnliche Anschauungsvermögen ist eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden, deren Verhältnis zu einander eine reine Anschauung des Raumes und der Zeit ist (lauter Formen unserer Sinnlichkeit), und welche, so fern sie in diesem Verhältnisse (dem Raume und der Zeit) nach Gesetzen der Einheit der Erfahrung verknüpft und bestimmbar sind, Gegenstände heißen.
-Die nichtsinnliche Ursache dieser Vorstellungen ist uns gänzlich unbekannt, und diese können wir daher nicht als Objekt anschauen; denn dergleichen Gegenstand würde weder im Raume, noch der Zeit (als bloßen Bedingungen der sinnlichen Vorstellung) vorgestellt werden müssen, ohne welche Bedingungen wir uns gar keine Anschauung denken können.
-Indessen können wir die bloß intelligibele Ursache, der Erscheinungen überhaupt, das transzendentale Objekt nennen, bloß, damit wir etwas haben, was der Sinnlichkeit als einer Rezeptivität korrespondiert. [462]
-Diesem transzendentalen Objekt können wir allen Umfang und Zusammenhang unserer möglichen Wahrnehmungen zuschreiben, und sagen: daß es vor aller Erfahrung an sich selbst gegeben sei.
-Die Erscheinungen aber sind, ihm gemäß, nicht an sich, sondern nur in dieser Erfahrung gegeben, weil sie bloße Vorstellungen sind, die nur als Wahrnehmungen einen wirklichen Gegenstand bedeuten, wenn nämlich diese Wahrnehmung mit allen andern nach den Regeln der Erfahrungseinheit zusammenhängt.
-
-So kann man sagen: die wirklichen Dinge der vergangenen Zeit sind in dem transzendentalen Gegenstande der Erfahrung gegeben; sie sind aber für mich nur Gegenstände und in der vergangenen Zeit wirklich, so fern als ich mir vorstelle, daß eine regressive Reihe möglicher Wahrnehmungen (es sei am Leitfaden der Geschichte, oder an den Fußstapfen der Ursachen und Wirkungen), nach empirischen Gesetzen, mit einem Worte, der Weltlauf auf eine verflossene Zeitreihe als Bedingung der gegenwärtigen Zeit führet, welche alsdenn doch nur in dem Zusammenhange einer möglichen Erfahrung und nicht an sich selbst als wirklich vorgestellt wird, so, daß alle von undenklicher Zeit her vor meinem Dasein verflossene Begebenheiten doch nichts andres bedeuten, als die Möglichkeit der Verlängerung der Kette der Erfahrung, von der gegenwärtigen Wahrnehmung an, aufwärts zu den Bedingungen, welche diese der Zeit nach bestimmen.
 
 
 [^1]: Ici, bien entendu, ce terme renvoie, comme toujours dans la seconde édition de la CRP, à la « chose considérée comme en soi », non à l'objet en général=x.
-
-[^2]: Online auf [zeno.org](http://www.zeno.org/Philosophie/M/Kant,+Immanuel/Kritik+der+reinen+Vernunft/I.+Transzendentale+Elementarlehre/Zweiter+Teil.+Die+transzendentale+Logik/Zweite+Abteilung.+Die+transzendentale+Dialektik/Zweites+Buch.+Von+den+dialektischen+Schl%C3%BCssen+der+reinen+Vernunft/2.+Hauptst%C3%BCck.+Die+Antinomie+der+reinen+Vernunft/6.+Abschnitt.+Der+transzendentale+Idealism,+als+der+Schl%C3%BCssel+zu+Aufl%C3%B6sung+der+kosmologischen+Dialektik)
