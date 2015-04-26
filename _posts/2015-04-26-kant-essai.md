@@ -7,8 +7,8 @@ tags: [kant, essay, fr]
 date: 2015-04-26
 ---
 
-Selon Kant sont *les choses effectivement réelles du passé … données dans l’objet transcendantal de l’expérience.* Que-ce est qu'il veut dire avec ca et quelle est la consequence pour notre capacité de la connaissance du monde ? Ce essai va plonger dans un [extrait](/philosophy/kant-text-II/) de la *Critique de la raison pure* et examiner la théorie de la connaissance de Kant pour la critiquer ensuite
-.
+Selon Kant sont *les choses effectivement réelles du passé … données dans l’objet transcendantal de l’expérience.* Que-ce est qu'il veut dire avec ca et quelle est la consequence pour notre capacité de la connaissance du monde ? Ce essai va plonger dans un [extrait](/philosophy/kant-text-II/) de la *Critique de la raison pure* et examiner la théorie de la connaissance de Kant pour la critiquer ensuite.
+
 {% include _toc.html %}
 
 # Introduction
