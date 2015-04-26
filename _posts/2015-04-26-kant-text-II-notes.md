@@ -24,8 +24,7 @@ Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'orig
 * ces représentations désigne Kant comme des objets
 * il y a "des lois réglant l'unité de l'expérience"
 
-Evidemment, il y a plein de notions, avec Kant opére ici, qui sont déjà expliqué quelque part. Notons quelques questions:
-
+Evidemment, il y a plein de notions, avec Kant opére ici, qui sont déjà expliqué quelque part. Notons quelques questions:  
 * où et comment explique Kant le pouvoir sensible d'intuition
 * est-ce qu'il y a une (grande) difference entre *le pouvoir sensible d'intuition* et simplement *l'intuition* ?
 * est-ce que le pouvoir sensible d'intuition peut traduit comme intuition sensible ?
@@ -36,8 +35,7 @@ Evidemment, il y a plein de notions, avec Kant opére ici, qui sont déjà expli
 * la cause non sensible n'est pas un objet, puisque un objet est représenté dans l'espace et le temps qui "sont simplement conditions de la représentation sensible", c'est-à-dire sans eux, nous ne pouvons pas penser (?).
 * l'espace et le temps sont des formes d'intuition pure
 
-Questions
-
+Questions  
 * que-ce est que ca veut dire *penser une intuition* ?
 * Si la cause non sensible nous est totalement inconnue, comment nous pouvons savoir qu'elle existe ?
 * quel est le preuve, que l'espace et le temps sont des formes pure de notre intuition et ne sont pas des categories objectives ?
