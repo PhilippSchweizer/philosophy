@@ -12,7 +12,7 @@ Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'orig
 
 <span style="font-variant: small-caps">Kant</span> (Emmanuel), Critique de la raison pure, Dialectique transcendantale, Antinomie de la raison pure, sixième section, éd. GF, pp. 472/473.  
 
-   
+ 
 
 Le pouvoir sensible d'intuition n'est à proprement parler qu'une réceptivité, qui consiste à être affecté d'une certaine manière par des représentations dont le rapport qu'elles entretiennent les une avec les autres est une intuition pure de l'espace et du temps (simples formes de notre sensibilité), et qui se trouvent désignées comme des *objets* en tant qu'elles sont dans ce rapport (l'espace et le temps) reliées et déterminables d'après des lois réglant l'unité de l'expérience.
 La cause non sensible de ces représentations nous est totalement inconnue, et c'est pourquoi nous ne pouvons l'intuitionner comme objet ; car il faudrait qu'un tel objet ne soit représenté ni dans l'espace ni dans le temps (en tant que ces derniers sont simplement conditions de la représentation sensible) - conditions sans lesquelles nous sommes incapables de penser la moindre intuition.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Extrait: Critique de la raison pure d'Emmanuel Kant"
+title:  "Extrait avec notes: Critique de la raison pure d'Emmanuel Kant"
 date:   2015-04-26 00:00:00
 categories: 
 tags: [kant, quelle]
