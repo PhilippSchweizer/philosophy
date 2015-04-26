@@ -10,9 +10,9 @@ image:
 date: 2015-04-15T17:16:19+02:00
 ---
 
-> Le pouvoir sensible d'intuition n’est &hellip; qu’une réceptivité, qui consiste à être affecté d’une certaine manière par des représentations &hellip;  
+> Le pouvoir sensible d'intuition n’est … qu’une réceptivité, qui consiste à être affecté d’une certaine manière par des représentations …  
 
-> Das sinnliche Anschauungsvermögen ist eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden &hellip;  
+> Das sinnliche Anschauungsvermögen ist eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden …  
 
 <p>
 <!--
