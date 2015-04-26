@@ -14,48 +14,48 @@ Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'orig
 
  
 
-    - pas de preuves pour ses propositions, c'est-à-dire, Kant présente sa resultat, il résume ses argument de la partie préalable.
+* pas de preuves pour ses propositions, c'est-à-dire, Kant présente sa resultat, il résume ses argument de la partie préalable.
 
 >Le pouvoir sensible d'intuition n'est à proprement parler qu'une réceptivité, qui consiste à être affecté d'une certaine manière par des représentations dont le rapport qu'elles entretiennent les une avec les autres est une intuition pure de l'espace et du temps (simples formes de notre sensibilité), et qui se trouvent désignées comme des *objets* en tant qu'elles sont dans ce rapport (l'espace et le temps) reliées et déterminables d'après des lois réglant l'unité de l'expérience.
 
-    - le pouvoir sensible d'intuition est une réceptivité de représentations  
-    - le rapport entre les représentations "est une intuition pure de l'espace et du temps"  
-    - l'espace et le temps sont "simples formes de notre sensibilité"
-    - ces représentations désigne Kant comme des objets
-    - il y a "des lois réglant l'unité de l'expérience"
+* le pouvoir sensible d'intuition est une réceptivité de représentations  
+* le rapport entre les représentations "est une intuition pure de l'espace et du temps"  
+* l'espace et le temps sont "simples formes de notre sensibilité"
+* ces représentations désigne Kant comme des objets
+* il y a "des lois réglant l'unité de l'expérience"
 
 Evidemment, il y a plein de notions, avec Kant opére ici, qui sont déjà expliqué quelque part. Notons quelques questions:
 
-    - où et comment explique Kant le pouvoir sensible d'intuition
-    - est-ce qu'il y a une (grande) difference entre *le pouvoir sensible d'intuition* et simplement *l'intuition* ?
-    - est-ce que le pouvoir sensible d'intuition peut traduit comme intuition sensible ?
+* où et comment explique Kant le pouvoir sensible d'intuition
+* est-ce qu'il y a une (grande) difference entre *le pouvoir sensible d'intuition* et simplement *l'intuition* ?
+* est-ce que le pouvoir sensible d'intuition peut traduit comme intuition sensible ?
 
 >La cause non sensible de ces représentations nous est totalement inconnue, et c'est pourquoi nous ne pouvons l'intuitionner comme objet ; car il faudrait qu'un tel objet ne soit représenté ni dans l'espace ni dans le temps (en tant que ces derniers sont simplement conditions de la représentation sensible) - conditions sans lesquelles nous sommes incapables de penser la moindre intuition.
 
-    - les représentations ont une cause non sensible qui "nous est totalement inconnue".
-    - la cause non sensible n'est pas un objet, puisque un objet est représenté dans l'espace et le temps qui "sont simplement conditions de la représentation sensible", c'est-à-dire sans eux, nous ne pouvons pas penser (?).
-    - --> l'espace et le temps sont des formes d'intuition pure
+* les représentations ont une cause non sensible qui "nous est totalement inconnue".
+* la cause non sensible n'est pas un objet, puisque un objet est représenté dans l'espace et le temps qui "sont simplement conditions de la représentation sensible", c'est-à-dire sans eux, nous ne pouvons pas penser (?).
+* l'espace et le temps sont des formes d'intuition pure
 
 Questions
 
-    - que-ce est que ca veut dire *penser une intuition* ?
-    - Si la cause non sensible nous est totalement inconnue, comment nous pouvons savoir qu'elle existe ?
-    - quel est le preuve, que l'espace et le temps sont des formes pure de notre intuition et ne sont pas des categories objectives ?
+* que-ce est que ca veut dire *penser une intuition* ?
+* Si la cause non sensible nous est totalement inconnue, comment nous pouvons savoir qu'elle existe ?
+* quel est le preuve, que l'espace et le temps sont des formes pure de notre intuition et ne sont pas des categories objectives ?
 
 >Nous pouvons toutefois appeler objet transcendantal[^1] la cause simplement intelligible des phénomènes en général, mais uniquement pour que nous disposions de quelque chose qui correspond à la sensibilité envisagée comme une réceptivité.
 
-    - La cause intelligible est l'objet transcendantal.
+* La cause intelligible est l'objet transcendantal.
 
-    - Que-ce est que Kant veut dire avec des "phénomènes en général" ?
-    - "la cause simplement intelligible" n'est qu'un dispositif supplétif ?
+* Que-ce est que Kant veut dire avec des "phénomènes en général" ?
+* "la cause simplement intelligible" n'est qu'un dispositif supplétif ?
 
 >À cet objet transcendantal nous pouvons assigner toute l'étendue et toute l'articulation de nos perceptions possibles, et nous pouvons en dire qu'il est donné en soi-même, avant toute expérience.
 
-    - 
+
 
 >Mais les phénomènes ne sont pas donnés en soi conformément à lui: ils ne le sont que dans cette expérience, puisqu'ils sont de simples représentations qui ne renvoient à un objet effectivement réel qu'en tant que perceptions, c'est-à-dire si cette perception s'articule avec toutes les autres selon les règles qui strucurent l'unité de l'expérience.
 
-    - 
+ 
 
 >Ainsi peut-on dire que les choses effectivement réelles du passé sont données dans l'objet transcendantal de l'expérience ; mais elles ne sont pour moi des objets et ne sont effectivement réelles dans le passé que si je me représente qu'une série régressive de perceptions possibles (d'après le fil de l'histoire, ou la perception des causes et des effets) obéissant à de lois empiriques, en un mot le cours du monde, conduit à une série temporelle écoulée qui apparaît comme la condition du temps présent.
 
