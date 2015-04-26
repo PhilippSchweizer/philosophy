@@ -7,6 +7,8 @@ tags: [kant, essay, fr]
 date: 2015-04-26
 ---
 
+Selon Kant sont *les choses effectivement réelles du passé … données dans l’objet transcendantal de l’expérience.* Que-ce est qu'il veut dire avec ca et quelle est la consequence pour notre capacité de la connaissance du monde ? Ce essai va plonger dans un [extrait](/philosophy/kant-text-II/) de la *Critique de la raison pure* et examiner la théorie de la connaissance de Kant pour la critiquer ensuite.
+
 {% include _toc.html %}
 
 # Introduction
@@ -22,7 +24,7 @@ Quelle est le but de « l’antinomie »?
 
 > Durch die *Anschauung* werden die Gegenstände empirisch vorgegeben und durch den *Verstand* begrifflich gedacht. Raum und Zeit sind für Kant Formen der Anschauung und damit unabhängig und vor aller Erfahrung (a priori). Die Leistung des formenden (logischen) Geistes bringt die erkennbare, nach notwendigen Gesetzen erzeugte Erscheinungswirklichkeit hervor, die im Gemüt (also letztlich im menschlichen Bewusstsein) durch die Verstandeskategorien (Quantität, Qualität, Relation, Modalität) konstituiert wird. Die Logik des menschlichen Verstandes erzeugt aus der Erfahrung des Mannigfaltigen die Erkenntnis.
 
->Le titre même de cet ouvrage explicite le projet kantien : il s'agit, après Hume, de refonder la métaphysique sur des bases solides, et d'en faire une science rigoureuse, en imitant l'exemple de la révolution copernicienne. De la même façon que Copernic a montré que la Terre tournait autour du soleil et non l'inverse, Kant affirme que le « centre » de la connaissance est le sujet connaissant (l'homme ou l'être raisonnable), et non une réalité extérieure par rapport à laquelle nous serions simplement passifs. Ce n'est donc plus l'objet qui oblige le sujet à se conformer à ses règles, c'est le sujet qui donne les siennes à l'objet pour le connaître. Ceci a pour conséquence immédiate que nous ne pouvons pas connaître la réalité en soi (nouménale), mais seulement la réalité telle qu'elle nous apparaît sous la forme d'un objet, ou phénomène. (http://fr.wikipedia.org/wiki/Emmanuel_Kant)
+> Le titre même de cet ouvrage explicite le projet kantien : il s'agit, après Hume, de refonder la métaphysique sur des bases solides, et d'en faire une science rigoureuse, en imitant l'exemple de la révolution copernicienne. De la même façon que Copernic a montré que la Terre tournait autour du soleil et non l'inverse, Kant affirme que le « centre » de la connaissance est le sujet connaissant (l'homme ou l'être raisonnable), et non une réalité extérieure par rapport à laquelle nous serions simplement passifs. Ce n'est donc plus l'objet qui oblige le sujet à se conformer à ses règles, c'est le sujet qui donne les siennes à l'objet pour le connaître. Ceci a pour conséquence immédiate que nous ne pouvons pas connaître la réalité en soi (nouménale), mais seulement la réalité telle qu'elle nous apparaît sous la forme d'un objet, ou phénomène. (http://fr.wikipedia.org/wiki/Emmanuel_Kant)
 
 
 # I L’Épistémologie de Kant

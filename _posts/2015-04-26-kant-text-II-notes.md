@@ -6,7 +6,7 @@ categories:
 tags: [kant, quelle]
 ---
 
-Cette contribution (*post*) fait partie de mon travail à l'essai [*Kant et la capacité de la connaissance du monde*](/annonce-kant-essai/). Je toujours fais pas mal de notes aux textes qui j'analyse plus intensif. Voici mes notes pour l'extrait de Kant, qui vous pouvez [lire ici sans notes](/kant-text-II/) et avec l'original allemand.
+Cette contribution (*post*) fait partie de mon travail à l'essai [*Kant et la capacité de la connaissance du monde*](/philosophy/kant-essai/). Je toujours fais pas mal de notes aux textes qui j'analyse plus intensif. Voici mes notes pour l'extrait de Kant, qui vous pouvez [lire ici sans notes](/philosophy/kant-text-II/) et avec l'original allemand.
 
 ## Remarques générales
 
