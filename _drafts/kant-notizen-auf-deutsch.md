@@ -21,4 +21,12 @@ Duden
 ### Rezeptivität
 > Die Fähigkeit (Rezeptivität), Vorstellungen durch die Art, wie wir von Gegenständen affiziert werden, zu bekommen, heißt Sinnlichkeit.[^1]
 
+
+représenter = vorstellen  
+objet transcendantal = chose considérée comme en soi (?)  
+l'étendue = Umfang
+l'articulation = hier: Zusammenhang
+
+
+
 [^1]: Erste Auflage 1781, B33, siehe [wikipedia](http://de.wikipedia.org/wiki/Rezeptivit%C3%A4t)
