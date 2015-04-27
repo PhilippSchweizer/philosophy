@@ -19,6 +19,7 @@ Duden
    : Vorstellung, Eindruck
 
 ### Rezeptivität
+
 > Die Fähigkeit (Rezeptivität), Vorstellungen durch die Art, wie wir von Gegenständen affiziert werden, zu bekommen, heißt Sinnlichkeit.[^1]
 
 
@@ -27,6 +28,10 @@ objet transcendantal = chose considérée comme en soi (?)
 l'étendue = Umfang
 l'articulation = hier: Zusammenhang
 
+### Erscheinungen
+der Erscheinungen überhaupt (phénomènes en général)
+Erscheinung = Wahrnehmung ???
+Die Erscheinungen ... sind nur in dieser Erfahrung gegeben, weil sie bloße Vorstellungen sind die nur als Wahrnehmungen einen wirklichen Gegenstand bedeuten ...
 
 
 [^1]: Erste Auflage 1781, B33, siehe [wikipedia](http://de.wikipedia.org/wiki/Rezeptivit%C3%A4t)
