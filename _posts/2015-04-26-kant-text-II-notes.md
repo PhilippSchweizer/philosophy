@@ -34,9 +34,9 @@ Evidemment, il y a plein de notions, avec Kant opére ici, qui sont déjà expli
 
 Questions:  
 
-* que-ce est que ca veut dire *penser une intuition* ?
-* Si la cause non sensible nous est totalement inconnue, comment nous pouvons savoir qu'elle existe ?
-* quel est le preuve, que l'espace et le temps sont des formes pure de notre intuition et ne sont pas des categories objectives ?
+* que-ce est que ca veut dire *penser une intuition* ?  
+* Si la cause non sensible nous est totalement inconnue, comment nous pouvons savoir qu'elle existe ?  
+* quel est le preuve, que l'espace et le temps sont des formes pure de notre intuition et ne sont pas des categories objectives ?  
 
 >Nous pouvons toutefois appeler objet transcendantal[^1] la cause simplement intelligible des phénomènes en général, mais uniquement pour que nous disposions de quelque chose qui correspond à la sensibilité envisagée comme une réceptivité.
 
@@ -44,11 +44,13 @@ Questions:
 
 Questions:  
 
-* Que-ce est que Kant veut dire avec des "phénomènes en général" ?
+* Que-ce est que Kant veut dire avec des "phénomènes en général" ?  
 * "la cause simplement intelligible" n'est qu'un dispositif supplétif ?
 
 >À cet objet transcendantal nous pouvons assigner toute l'étendue et toute l'articulation de nos perceptions possibles, et nous pouvons en dire qu'il est donné en soi-même, avant toute expérience.
 
+* Toute notre perception possible est contenu dans l'objet transcendantal. Mais ce objet est donné avant toute expérience. Est-ce que ca veut dire que ...  
+* Que-ce est que ca veut dire *donné en soi-même*? Donné pour qui? Est-ce que ca quelque chose à voir avec la *chose en soi*? Ca veut dire que avec ca, Kant a trouvé une base sûre pour la Metaphysik. L'objet transcendantal est là, il faut pas chercher une source pour il.
 
 
 >Mais les phénomènes ne sont pas donnés en soi conformément à lui: ils ne le sont que dans cette expérience, puisqu'ils sont de simples représentations qui ne renvoient à un objet effectivement réel qu'en tant que perceptions, c'est-à-dire si cette perception s'articule avec toutes les autres selon les règles qui structurent l'unité de l'expérience.
