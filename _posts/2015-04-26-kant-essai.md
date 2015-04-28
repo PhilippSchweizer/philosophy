@@ -27,7 +27,6 @@ Quelle est le but de « l’antinomie »?
 + Kant essaie de réconcilier l'idealisme avec materialisme
 + c'est essaie caractérise son système 
 + Kant veut, selon Hegel, confiner toute penser metaphysique de la philosophie et devient empiriste (wirft ihm Empirismus vor)
-+  
 
 
 # I L’Épistémologie de Kant
@@ -37,9 +36,9 @@ Quelle est le but de « l’antinomie »?
 
 Dans l'extrait, on trouve une conclusion concise de l’épistémologie de Kant, comme elle est la consequence de sa *revolution copernicienne* et qui prend la question fondamentale du rapport de la pensée à l'être comme le point de départ.
 
-Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations de quelque chose « non sensible », qui est « totalement inconnue ». Cette *cause* non sensible n'est pas un objet, mais les représentations eux-même sont des objets de notre pensée.    
+Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations. Ces dernieres ont une « cause non sensible » mais elle est « totalement inconnue », puisque elle est dehors l'espace et le temps. C'est pourquoi la cause non sensible n'est pas un objet, quel est représenté dans l'espace et le temps qui « sont simplement conditions de la représentation sensible », ou bien formes d'intuition pure. D'autant que ce non objet s'égrène comme correspondant des représentations, Kant introduit l'objet transcendantal (la cause simplement intelligible) comme un dispositif supplétif, quel est « donné en soi-même, avant toute expérience ».
   
-Cette cause non sensible n'est pas un objet, puisque un objet est représenté dans l'espace et le temps qui « sont simplement conditions de la représentation sensible », ou bien formes d'intuition pure. Sans eux, nous ne pouvons pas penser. Puisque le non objet s'égrène comme source pour des représentations, Kant introduit l'objet transcendantal (la cause simplement intelligible) comme un dispositif supplétif, ce qu'est « donné en soi-même, avant toute expérience ».
+Sans eux, nous ne pouvons pas penser. Puisque le non objet s'égrène comme source pour des représentations, Kant introduit l'objet transcendantal (la cause simplement intelligible) comme un dispositif supplétif, ce qu'est « donné en soi-même, avant toute expérience ».
 
 Les objets ne sont pas des choses matérielles ou objective, ça veut dire, dehors et independant de notre conscience, mais il s'agit de représentations.
 
@@ -48,6 +47,7 @@ Les objets ne sont pas des choses matérielles ou objective, ça veut dire, deho
 
 + ... c'est-à-dire que nous somme affecté par un inconnue totale  
 + Si je comprend Kant bien: Le materiel de notre sensibilité sont les représentations pas d'un objet mais ils même sont des objets. Objet de notre sensibilité sont les représentations de l'objet transcendantal (= chose en soi).
++ il existe une *cause non sensible* dont la seule chose qui nous pouvons dire la-dessus est, quelle est dehors l'espace et le temps. Ou peut etre à l'inverse: Parce que cette cause est dehors l'espace et le temps, elle est *non sensible*, car l'espace et le temps sont des formes de l'intuition. 
 + la monde exterieur chez Kant est l'apparence des chose, derrière laquelle existe l'essence des chose le chose dit en soi. ???
 + La chose en soi peut jamais (?) devenir la chose pour nous mais seulement leur apparence. La chose en soi existe, mais elle n'est pas ca à quoi Kant se réfère avec la notion de la monde exterieure. ???
 + n'est pas claire pour moi: si la chose en soi, l'objet transcendantal est la cause non sensible des représentations ... STOP ... l'objet transcendantal n'est pas la cause non sensible! La cause non sensible n'est pas un objet, alor elle n'est l'objet *transcendantal* non plus
@@ -65,7 +65,6 @@ Il est très claire disant que ce pouvoir est une réceptivité et donc passive
 # II Critique de l’épistémologie de Kant
 
 + Kant regarde la chose en soi ou l'essence (Wesen) d'objet comme non reconnaissable et ca lui oblige de rester epistemologiquement à la suface des phénomènes.
-+ 
 
 
 ## Comment il faut critiquer un œuvre de philosophie ?
