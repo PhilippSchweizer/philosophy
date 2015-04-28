@@ -47,9 +47,11 @@ Les objets ne sont pas des choses matérielles ou objective, ça veut dire, deho
 ## Analyse de l'extrait
 
 + ... c'est-à-dire que nous somme affecté par un inconnue totale  
-+ Si je comprend Kant bien: Le materiel de notre sensibilité sont les représentations pas d'un objet mais ils même sont des objets. Objet de notre sensibilité sont les représentations d  
-+ la monde exterieur chez Kant est l'apparence des chose, derrière laquelle existe l'essence des chose le chose dit en soi. Elle peut jamais (?) devenir la chose pour nous mais seulement leur apparence. La chose en soi existe, mais elle n'est pas ca à quoi Kant se réfère avec la notion de la monde extererieure.
-+ n'est pas claire pour moi: si la chose en soi, l'objet transcendantal est la cause non sensible des représentations, est-ce qu'on peut les appeler représentation d'objet transcendantal? 
++ Si je comprend Kant bien: Le materiel de notre sensibilité sont les représentations pas d'un objet mais ils même sont des objets. Objet de notre sensibilité sont les représentations de l'objet transcendantal (= chose en soi).
++ la monde exterieur chez Kant est l'apparence des chose, derrière laquelle existe l'essence des chose le chose dit en soi. ???
++ La chose en soi peut jamais (?) devenir la chose pour nous mais seulement leur apparence. La chose en soi existe, mais elle n'est pas ca à quoi Kant se réfère avec la notion de la monde exterieure. ???
++ n'est pas claire pour moi: si la chose en soi, l'objet transcendantal est la cause non sensible des représentations ... STOP ... l'objet transcendantal n'est pas la cause non sensible! La cause non sensible n'est pas un objet, alor elle n'est l'objet *transcendantal* non plus
++ est-ce qu'on peut appeler les représentations d'objet transcendantal? Ou sont-ils représentations de l'apparence  
 
 Au premier abord, la traduction du mot *sinnliches Anschauungsvermögen* (ou *Vermögen der sinnlichen Anschauung*) comme *le pouvoir sensible d'intuition* me semble bizare, même fausse. Plus précis, c'est la traduction de *Anschauung* comme l'*intuition* qui m'ahurit. Si je fallais definir *Anschauung* je dirais que c'est le processus de se faire un avis que l'avis il-même. C'est le cas dans la notion de la *Weltanschauung* (la conception du monde).[^1] La racine du mot, le verb *anschauen* (regarder ainsi que examiner) m'a fait penser que *Anschauung* signifie plutôt *Betrachtungsweise* (façon de considérer). Dans ce sens, ça rien a voir avec l'intuition comme une connaissance "directe, immédiate de la vérité, sans recours au raisonnement, à l'expérience."[^2]
 
