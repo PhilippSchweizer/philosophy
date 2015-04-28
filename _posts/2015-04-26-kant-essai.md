@@ -36,8 +36,8 @@ Quelle est le but de « l’antinomie »?
 
 Dans l'extrait, on trouve une conclusion concise de l’épistémologie de Kant, comme elle est la consequence de sa *revolution copernicienne* et qui prend la question fondamentale du rapport de la pensée à l'être comme le point de départ.
 
-Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations. Ces dernieres ont une « cause non sensible » mais elle est « totalement inconnue », puisque elle est dehors l'espace et le temps. C'est pourquoi la cause non sensible n'est pas un objet, quel est représenté dans l'espace et le temps qui « sont simplement conditions de la représentation sensible », ou bien formes d'intuition pure. D'autant que ce non objet s'égrène comme correspondant des représentations, Kant introduit l'objet transcendantal (la cause simplement intelligible) comme un dispositif supplétif, quel est « donné en soi-même, avant toute expérience ».
-  
+Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations. Ces dernieres ont une « cause non sensible » mais elle est « totalement inconnue », puisque elle est dehors l'espace et le temps. C'est pourquoi la cause non sensible n'est pas un objet, quel est caracterisé d'être représenté dans l'espace et le temps qui « sont conditions » de notre pensée. D'autant que ce non objet s'égrène comme correspondant des représentations, Kant introduit l'objet transcendantal comme un dispositif supplétif, quel est « donné en soi-même, avant toute expérience ».
+
 Sans eux, nous ne pouvons pas penser. Puisque le non objet s'égrène comme source pour des représentations, Kant introduit l'objet transcendantal (la cause simplement intelligible) comme un dispositif supplétif, ce qu'est « donné en soi-même, avant toute expérience ».
 
 Les objets ne sont pas des choses matérielles ou objective, ça veut dire, dehors et independant de notre conscience, mais il s'agit de représentations.
