@@ -45,7 +45,24 @@
       <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
-        <p class="byline"><strong>{{ page.title }}</strong> wurde am <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }} veröffentlicht</time>{% if page.modified %} und am <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} zuletzt bearbeitet.</p>
+        <p class="byline">Dieser Beitrag wurde am <time datetime="{{ page.date | date_to_xmlschema }}">
+        {% assign m = page.date | date: "%-m" %}{{ page.date | date: "%-d." }}
+        {% case m %}
+        {% when '1' %}Januar {% when '2' %}Februar {% when '3' %}M&auml;rz
+        {% when '4' %}April {% when '5' %}Mai  {% when '6' %}Juni
+        {% when '7' %}Juli {% when '8' %}August {% when '9' %}September
+        {% when '10' %}Oktober {% when '11' %}November {% when '12' %}Dezember
+        {% endcase %}
+        {{ page.date | date: "%Y" }}
+        veröffentlicht</time>{% if page.modified %} und am <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">
+        {% assign m = page.modified | date: "%-m" %}{{ page.modified | date: "%-d." }}
+        {% case m %}
+        {% when '1' %}Januar {% when '2' %}Februar {% when '3' %}M&auml;rz
+        {% when '4' %}April {% when '5' %}Mai  {% when '6' %}Juni
+        {% when '7' %}Juli {% when '8' %}August {% when '9' %}September
+        {% when '10' %}Oktober {% when '11' %}November {% when '12' %}Dezember
+        {% endcase %}
+        {{ page.modified | date: "%Y" }} zuletzt bearbeitet</time>{% endif %}.</p>
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}

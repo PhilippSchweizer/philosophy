@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Extrait: Critique de la raison pure d'Emmanuel Kant"
-date:   2015-03-23 00:00:00
+date:   2015-03-23
 categories: 
 tags: [kant, quelle, fr]
 ---

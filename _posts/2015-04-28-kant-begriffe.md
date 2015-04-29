@@ -19,12 +19,16 @@ date: 2015-04-28
 
 ### Anschauung, reine  
 
+### reine Anschauung des Raumes und der Zeit /  intuition pure de l'espace et du temps
+
 ### Anschauung, intellektuelle  
 
 ### sinnliches Anschauungsvermögen
 
+
 ## Sinnlichkeit  
 >Sinnlichkeit bezeichnet einmal die Empfänglichkeit, vermöge deren uns Gegenstände in den Sinnen durch Empfindung gegeben sind. Die Dinge "affizieren" unsere Sinnlichkeit (vgl. Ding an sich). Sie steht also im Gegensatz zur Spontaneität des Gemüts, zur Formung des sinnlichen Materials durch den Verstand. Aber auch die Sinnlichkeit hat, als Vermögen der Anschauung, ihre apriorischen Formen. Sie ist einerseits das bloß Subjektive in der Erkenntnis, andererseits ist sie aber Grenze und notwendige Bedingung unseres auf Erfahrung eingeschränkten Erkennens (vgl. Realität, Empfindung). — Sinnlichkeit bedeutet ferner im Gegensatz zur Autonomie der praktischen Vernunft die Gesamtheit der "sinnlichen" Triebfedern, die Neigungen, das Begehrungsvermögen. — Das der Sinnlichkeit (in theoretischer und praktischer Bedeutung) Transzendente ist das "Übersinnliche". (Eisler, Sinnlichkeit)
+
 
 ## Vorstellungen / représentations  
 Kant nennt diese *Gegenstände / objets*, unter der Bedingung, dass sie im Verhältnis von Raum und Zeit (?) "nach Gesetzen der Einheit der Erfahrung verknüpft und bestimmbar sind." Bei Eisler:  
@@ -33,16 +37,17 @@ objektive Vorstellung = Erkenntnis = Anschauung / Begriff
 
 
 ## Erfahrung  
-#### transzendentaler Gegenstand der Erfahrung  
-#### Erfahrungseinheit  
-#### Gegenstände der Erfahrung = die Erscheinungen (Eisler)  
 
+### transzendentaler Gegenstand der Erfahrung  
+### Erfahrungseinheit  
+
+### Gesetzte der Einheit der Erfahrung / lois réglant l'unité l'expérience  
+> Die "wirkliche Erfahrung" besteht aus der Apprehension (s. d.), Assoziation (Reproduktion, s. d.) und Rekognition (s. d.). Sie enthält "Begriffe, welche die formale Einheit der Erfahrung und mit ihr alle objektive Gültigkeit (Wahrheit) der empirischen Erkenntnis möglich machen". Es sind dies die Kategorien, ibid. 3. Abs. (I 726—Rc 214). Der reine Verstand (s. d.) ist, vermittelst der Kategorien, "ein formales und synthetisches Prinzipium aller Erfahrungen". Er gibt die Gesetze für die Synthesis der (produktiven) Einbildungskraft (s. d.), welche, die Wahrnehmungen verknüpfend, Erfahrung aus ihnen macht, ibid. (I 721 ff.—Rc 204 ff.). Der Verstand ist die "Gesetzgebung für die Natur", der "Quell der Gesetze der Natur". Die Natur, als Gegenstand der Erkenntnis in einer Erfahrung, ist nur in der Einheit der Apperzeption, im Verstande möglich. "Alle Erscheinungen liegen also als mögliche Erfahrungen ebenso a priori im Verstande und erhalten ihre formale Möglichkeit von ihm, wie sie als bloße Anschauungen in der Sinnlichkeit liegen und durch dieselbe der Form nach allein möglich sind", ibid. (I 727—Rc 218).
+
+### Gegenstände der Erfahrung = die Erscheinungen (Eisler)  
 
 ### Erscheinungen überhaupt / Phénomènes en générale
 
-### reine Anschauung des Raumes und der Zeit /  intuition pure de l'espace et du temps    
-
-### Gesetzte der Einheit der Erfahrung / lois réglant l'unité l'expérience  
 
 ## Objekt  
 > Das Objekt der Erfahrung ist nicht das "Ding an sich", aber auch nicht ein bloßer, assoziativ verbundener Komplex von Empfindungen und Vorstellungselementen. Sondern ein Objekt wird dadurch konstituiert, daß vermittelst der Einheit der transzendentalen Apperzeption durch Kategorien der Verstand das Mannigfaltige der Anschauung zu einem einheitlich-gesetzlichen Zusammenhang verknüpft. Das Objekt der Erfahrung ist ein für alle Subjekte gültiger, notwendig sich darstellender, gemeinsamer Zusammenhang möglicher Erfahrungsdaten, bestimmt durch eine einheitliche Regel, welche diesen Zusammenhang von psychologisch-subjektiven Vorstellungsverbindungen prinzipiell unterscheiden läßt. Was in einem solchen Zusammenhange und dem Gesamtsystem solcher Zusammenhänge eine feste Stelle einnimmt, ist objektiv, wirklich, es hat "empirische Realität", wenn es auch nicht "an sich", unabhängig von diesen Zusammenhängen, besteht. Die besonderen empirischen Objekte werden dadurch gegeben, daß der allgemeine Gedanke des Objekts überhaupt auf das Anschauliche Anwendung findet.
