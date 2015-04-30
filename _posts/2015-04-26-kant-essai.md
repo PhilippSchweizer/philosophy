@@ -34,14 +34,19 @@ Quelle est le but de « l’antinomie »?
 
 ## Compte rendu d'extrait
 
-Dans l'extrait, on trouve une conclusion concise de l’épistémologie de Kant, comme elle est la consequence de sa *revolution copernicienne* et qui prend la question fondamentale du rapport de la pensée à l'être comme le point de départ.
+Dans l’extrait, on trouve une conclusion concise de l’épistémologie de Kant, comme elle est la conséquence de sa *révolution copernicienne* et qui prend la question fondamentale du rapport de la pensée à l’être comme le point de départ.
 
-Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations. Ces dernieres ont une « cause non sensible » mais elle est « totalement inconnue », puisque elle est dehors l'espace et le temps. C'est pourquoi la cause non sensible n'est pas un objet, quel est caracterisé d'être représenté dans l'espace et le temps qui « sont conditions » de notre pensée. D'autant que ce non objet s'égrène comme correspondant des représentations, Kant introduit l'objet transcendantal comme un dispositif supplétif, quel est « donné en soi-même, avant toute expérience ». Il est la monde exterieur pour Kant, car il contient "toute l'étendue et toute l'arcticulation de nos perceptions possibles". Par contre, les phénomènes sont simples représentations, qui sont transformé aux perceptions dans l'expérience. Ces représentations n'existe que dans l'expérience et "qui ne renvoient à un objet effectivement réel (*wirklicher Gegenstand*) qu'en tant que perceptions". Et ce n'est pas la seule condition pour les représentations devenant perceptions. Il faut en plus que les perceptions constituent une cohérence, selon certains règles, qui ne sont pas precices dans l'extrait.
-Ce qu'a cours pour les représentations en général employe Kant aussi pour le passé.
+Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations. Ces dernières ont une « cause non sensible » mais elle est « totalement inconnue », puisque elle est dehors l’espace et le temps. C’est pourquoi la cause non sensible n’est pas un objet, quel est caractérisé d’être représenté dans l’espace et le temps qui « sont conditions » de notre pensée. D’autant que ce non-objet s’égrène comme correspondant des représentations, Kant introduit l’objet transcendantal comme un dispositif supplétif, quel est « donné en soi-même, avant toute expérience ». Il est la monde « extérieur » pour Kant, car il contient « toute l’étendue et toute l’articulation de nos perceptions possibles ». Par conséquent, l’objet transcendantal comporte le passé qui n’est qu’une *chaîne de l’expérience* possible.
+
+Les perceptions *possibles* sont des phénomènes ou simples représentations qui doivent être transformé dans l’expérience avant devenir perceptions. En d’autres termes, ces représentations n’existent que dans l’expérience et « qui ne renvoient à un objet effectivement réel (*wirklicher Gegenstand*) qu’en tant que perceptions ».
+
+Et ce n’est pas la seule condition pour les représentations devenant perceptions. Il faut en plus que les perceptions constituent une cohérence, selon certaines règles, qui ne sont pas précisés dans l’extrait.
 
 
 ## Analyse de l'extrait
 
++ l'espace et le temps sont des formes d'intuition et, en tant que tels, ils sont une forme de réceptivité. (siehe Eisler, Rezeptivität)  
++ 
 + ... c'est-à-dire que nous somme affecté par un inconnue totale  
 + Si je comprend Kant bien: Le materiel de notre sensibilité sont les représentations pas d'un objet mais ils même sont des objets. Objet de notre sensibilité sont les représentations de l'objet transcendantal (= chose en soi).
 + il existe une *cause non sensible* dont la seule chose qui nous pouvons dire la-dessus est, quelle est dehors l'espace et le temps. Ou peut etre à l'inverse: Parce que cette cause est dehors l'espace et le temps, elle est *non sensible*, car l'espace et le temps sont des formes de l'intuition. 
