@@ -8,10 +8,10 @@ tags: [kant, quelle, fr]
 
 Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'original allemand.
 
-### Extrait de la *Dialectique transcendantale, Antinomie de la raison pure, sixième section.*
+### De l'idéalisme transcendantal comme clef de la solution de la dialectique cosmologique.
 
-Il se trouve dans:  
-<span style="font-variant: small-caps">Kant</span> (Emmanuel), *Critique de la raison pure*, éd. GF, pp. 472/473.  
+Extrait de:    
+<span style="font-variant: small-caps">Kant</span> (Emmanuel), *Critique de la raison pure*, éd. GF, pp. 472/473 (*Dialectique transcendantale, Antinomie de la raison pure, sixième section*). 
 Les paragraphes sont - dans le sens d'une meilleure lisibilité - en partie de mon coté.
 
 Le pouvoir sensible d'intuition n'est à proprement parler qu'une réceptivité, qui consiste à être affecté d'une certaine manière par des représentations dont le rapport qu'elles entretiennent les une avec les autres est une intuition pure de l'espace et du temps (simples formes de notre sensibilité), et qui se trouvent désignées comme des *objets* en tant qu'elles sont dans ce rapport (l'espace et le temps) reliées et déterminables d'après des lois réglant l'unité de l'expérience.
