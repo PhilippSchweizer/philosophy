@@ -13,6 +13,6 @@ Das Essay und meine Notizen dazu sind auf Französisch, und es ist nicht geplant
 
 [^1]: <span style="font-variant: small-caps">Kant</span> (Immanuel) *Kritik der reinen Vernunft (1781).* Johann Friedrich Hartknoch, Riga 1781. S. 126-128. Online auf [Wikisource](http://de.wikisource.org/wiki/Critik_der_reinen_Vernunft_%281781%29)  
     
-[^2]: <span style="font-variant: small-caps">Kant</span> (Immanuel) *Kritik der reinen Vernunft.* In: <span style="font-variant: small-caps">Weischedel</span> (Wilhelm) (Hrsg.) *Werke in zwölf Bänden* Band 3, Suhrkamp, Frankfurt/M. 1977, S. 461 f.
+[^2]: <span style="font-variant: small-caps">Kant</span> (Immanuel) *Kritik der reinen Vernunft.* In: <span style="font-variant: small-caps">Weischedel</span> (Wilhelm) (Hrsg.) *Werke in zwölf Bänden.* Band 3, Suhrkamp, Frankfurt/M. 1977, S. 461 f.
     Online auf [zeno.org](http://www.zeno.org/nid/20009188398)  
-    Der Text folgt der *Zweyten hin und wieder verbesserte Auflage* Johann Friedrich Hartknoch, Riga 1787.
+    Der Text folgt der *Zweyten hin und wieder verbesserte Auflage.* Johann Friedrich Hartknoch, Riga 1787.
