@@ -11,11 +11,13 @@ Suivant vous pouvez lire l'extrait ce que le prof nous a donné ainsi que l'orig
 ### Extrait de la *Dialectique transcendantale, Antinomie de la raison pure, sixième section.*
 
 Il se trouve dans:  
-<span style="font-variant: small-caps">Kant</span> (Emmanuel), *Critique de la raison pure*, éd. GF, pp. 472/473.
+<span style="font-variant: small-caps">Kant</span> (Emmanuel), *Critique de la raison pure*, éd. GF, pp. 472/473.  
+Les paragraphes sont - dans le sens d'une meilleure lisibilité - en partie de mon coté.
 
 Le pouvoir sensible d'intuition n'est à proprement parler qu'une réceptivité, qui consiste à être affecté d'une certaine manière par des représentations dont le rapport qu'elles entretiennent les une avec les autres est une intuition pure de l'espace et du temps (simples formes de notre sensibilité), et qui se trouvent désignées comme des *objets* en tant qu'elles sont dans ce rapport (l'espace et le temps) reliées et déterminables d'après des lois réglant l'unité de l'expérience.
 La cause non sensible de ces représentations nous est totalement inconnue, et c'est pourquoi nous ne pouvons l'intuitionner comme objet ; car il faudrait qu'un tel objet ne soit représenté ni dans l'espace ni dans le temps (en tant que ces derniers sont simplement conditions de la représentation sensible) - conditions sans lesquelles nous sommes incapables de penser la moindre intuition.
 Nous pouvons toutefois appeler objet transcendantal[^1] la cause simplement intelligible des phénomènes en général, mais uniquement pour que nous disposions de quelque chose qui correspond à la sensibilité envisagée comme une réceptivité.
+
 À cet objet transcendantal nous pouvons assigner toute l'étendue et toute l'articulation de nos perceptions possibles, et nous pouvons en dire qu'il est donné en soi-même, avant toute expérience.
 Mais les phénomènes ne sont pas donnés en soi conformément à lui : ils ne le sont que dans cette expérience, puisqu'ils sont de simples représentations qui ne renvoient à un objet effectivement réel qu'en tant que perceptions, c'est-à-dire si cette perception s'articule avec toutes les autres selon les règles qui structurent l'unité de l'expérience.
 
@@ -26,12 +28,14 @@ Cependent, cette dernière série n'est alors représentée comme effectivement 
 
 Auszug aus:  
 <span style="font-variant: small-caps">Kant</span> (Immanuel) *Kritik der reinen Vernunft.* In: <span style="font-variant: small-caps">Weischedel</span> (Wilhelm) (Hrsg.) *Werke in zwölf Bänden.* Band 3, Suhrkamp, Frankfurt/M. 1977, S. 461 f. (*Der Antinomie der reinen Vernunft sechster Abschnitt*)  
-    Online auf [zeno.org](http://www.zeno.org/Philosophie/M/Kant,+Immanuel/Kritik+der+reinen+Vernunft/I.+Transzendentale+Elementarlehre/Zweiter+Teil.+Die+transzendentale+Logik/Zweite+Abteilung.+Die+transzendentale+Dialektik/Zweites+Buch.+Von+den+dialektischen+Schl%C3%BCssen+der+reinen+Vernunft/2.+Hauptst%C3%BCck.+Die+Antinomie+der+reinen+Vernunft/6.+Abschnitt.+Der+transzendentale+Idealism,+als+der+Schl%C3%BCssel+zu+Aufl%C3%B6sung+der+kosmologischen+Dialektik)  
-    Der Text folgt der *Zweyten hin und wieder verbesserte Auflage.* Johann Friedrich Hartknoch, Riga 1787.
+Online auf [zeno.org](http://www.zeno.org/Philosophie/M/Kant,+Immanuel/Kritik+der+reinen+Vernunft/I.+Transzendentale+Elementarlehre/Zweiter+Teil.+Die+transzendentale+Logik/Zweite+Abteilung.+Die+transzendentale+Dialektik/Zweites+Buch.+Von+den+dialektischen+Schl%C3%BCssen+der+reinen+Vernunft/2.+Hauptst%C3%BCck.+Die+Antinomie+der+reinen+Vernunft/6.+Abschnitt.+Der+transzendentale+Idealism,+als+der+Schl%C3%BCssel+zu+Aufl%C3%B6sung+der+kosmologischen+Dialektik).  
+Der Text folgt der *Zweyten hin und wieder verbesserte Auflage.* Johann Friedrich Hartknoch, Riga 1787.  
+Absätze wurde - im Sinne einer besseren Lesbarkeit - teilweise von mir eingefügt.
 
 Das sinnliche Anschauungsvermögen ist eigentlich nur eine Rezeptivität, auf gewisse Weise mit Vorstellungen affiziert zu werden, deren Verhältnis zu einander eine reine Anschauung des Raumes und der Zeit ist (lauter Formen unserer Sinnlichkeit), und welche, so fern sie in diesem Verhältnisse (dem Raume und der Zeit) nach Gesetzen der Einheit der Erfahrung verknüpft und bestimmbar sind, Gegenstände heißen.
 Die nichtsinnliche Ursache dieser Vorstellungen ist uns gänzlich unbekannt, und diese können wir daher nicht als Objekt anschauen; denn dergleichen Gegenstand würde weder im Raume, noch der Zeit (als bloßen Bedingungen der sinnlichen Vorstellung) vorgestellt werden müssen, ohne welche Bedingungen wir uns gar keine Anschauung denken können.
 Indessen können wir die bloß intelligibele Ursache, der Erscheinungen überhaupt, das transzendentale Objekt nennen, bloß, damit wir etwas haben, was der Sinnlichkeit als einer Rezeptivität korrespondiert. [462]
+
 Diesem transzendentalen Objekt können wir allen Umfang und Zusammenhang unserer möglichen Wahrnehmungen zuschreiben, und sagen: daß es vor aller Erfahrung an sich selbst gegeben sei.
 Die Erscheinungen aber sind, ihm gemäß, nicht an sich, sondern nur in dieser Erfahrung gegeben, weil sie bloße Vorstellungen sind, die nur als Wahrnehmungen einen wirklichen Gegenstand bedeuten, wenn nämlich diese Wahrnehmung mit allen andern nach den Regeln der Erfahrungseinheit zusammenhängt.
 
