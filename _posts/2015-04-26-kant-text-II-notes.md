@@ -58,15 +58,21 @@ Questions:
 
 * Comment faut il penser ces règles?
 * Ca veut dire quoi "l'unité de l'expérience"?
-    - si il y a des contradiction dans l'expérience, on ne peut pas avoir des perceptions?
-    - ou bien ...
-    - ... si il y a des contradiction entre les perceptions, il peuvent pas etre des représentations d'un *objet effectivement réel*. Mais quelle est la consequence? Est-ce qu'on apercevoit une telle contradiction ou pas? Si oui, dans quel forme?
- 
+    - si il y a des contradiction dans l'expérience, on ne peut pas avoir des perceptions?  
+ou bien ...  
+    - ... si il y a des contradiction entre les perceptions, il ne peuvent pas être / devenir des représentations d'un *objet effectivement réel*. Mais quelle est la consequence? Est-ce qu'on apercevoit une telle contradiction ou pas? Si oui, dans quel forme?
+* quelle est la signification d'*objet effectivement réel* pour Kant? Je crois: la réalité (Wirklichkeit), pour lui se ne réfère pas à la monde exterieure et independant de notre conscience, la monde dite objective ou la chose en soi, mais à la chose pour nous. Par contre, Hegel dirait, que la réalité, la *Wirklichkeit* est ce qui *fait de l'effet* (*wirken*), quoi que ce soit apercu ou pas.
+
 
 >Ainsi peut-on dire que les choses effectivement réelles du passé sont données dans l'objet transcendantal de l'expérience ; mais elles ne sont pour moi des objets et ne sont effectivement réelles dans le passé que si je me représente qu'une série régressive de perceptions possibles (d'après le fil de l'histoire, ou la perception des causes et des effets) obéissant à de lois empiriques, en un mot le cours du monde, conduit à une série temporelle écoulée qui apparaît comme la condition du temps présent.
 
-> Cependent, cette dernière série n'est alors représentée comme effectivement réelle que si elle s'inscit dans l'enchaînement d'une expérience possible, et non pas en soi, si bien que tous les événements qui se sont écoulés avant mon existence et depuis un temps immémorial ne signifient pourtant rien d'autre que la possibilité de prolonger la chaîne de l'expérience en régressant à partir de la perception présente, vers les conditions qui la déterminent chronologiquement.
+* comme tous est donné dans ce dispositif supplétif (l'objet transcendantal), le passé aussi, au forme des *choses effectivement réelles du passé*, est donné là-dedans.
+* mais il faut la représentation du cours du monde comme une *série temporelle écoulée qui apparaît comme la condition du temps présent*.
 
+> Cependent, cette dernière série n'est alors représentée comme effectivement réelle que si elle s'inscrit dans l'enchaînement d'une expérience possible, et non pas en soi, si bien que tous les événements qui se sont écoulés avant mon existence et depuis un temps immémorial ne signifient pourtant rien d'autre que la possibilité de prolonger la chaîne de l'expérience en régressant à partir de la perception présente, vers les conditions qui la déterminent chronologiquement.
+
+* "la chaîne de l'expérience"?
+* est-ce qu'on lit ici une relativisme ... ? Ou un empirisme, comme Hegel a reproché à Kant? Kant semble de dire que tous n'est donné que dans l'expérience. Le passé n'est pas *effectivement* ce que se passé avant le présent mais il n'est qu'une *chaîne de l'expérience* possible.
 
 
 [^1]: Ici, bien entendu, ce terme renvoie, comme toujours dans la seconde édition de la CRP, à la « chose considérée comme en soi », non à l'objet en général=x.
