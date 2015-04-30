@@ -56,6 +56,11 @@ Questions:
 
 >Mais les phénomènes ne sont pas donnés en soi conformément à lui: ils ne le sont que dans cette expérience, puisqu'ils sont de simples représentations qui ne renvoient à un objet effectivement réel qu'en tant que perceptions, c'est-à-dire si cette perception s'articule avec toutes les autres selon les règles qui structurent l'unité de l'expérience.
 
+* Comment faut il penser ces règles?
+* Ca veut dire quoi "l'unité de l'expérience"?
+    - si il y a des contradiction dans l'expérience, on ne peut pas avoir des perceptions?
+    - ou bien ...
+    - ... si il y a des contradiction entre les perceptions, il peuvent pas etre des représentations d'un *objet effectivement réel*. Mais quelle est la consequence? Est-ce qu'on apercevoit une telle contradiction ou pas? Si oui, dans quel forme?
  
 
 >Ainsi peut-on dire que les choses effectivement réelles du passé sont données dans l'objet transcendantal de l'expérience ; mais elles ne sont pour moi des objets et ne sont effectivement réelles dans le passé que si je me représente qu'une série régressive de perceptions possibles (d'après le fil de l'histoire, ou la perception des causes et des effets) obéissant à de lois empiriques, en un mot le cours du monde, conduit à une série temporelle écoulée qui apparaît comme la condition du temps présent.
