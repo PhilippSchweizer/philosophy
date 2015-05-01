@@ -23,11 +23,8 @@ Hanns Eisler a démontré que la *Critique de la raison pure* ne soit pas un exa
 
 >Die Bedeutung des aus reiner, von der Erfahrung unabhängiger Erkenntnisgesetzlichkeit Entspringenden für die Erkenntnis, die Tragweite, Anwendbarkeit, der Umfang und die Grenzen des Apriorischen (s. A priori) werden ermittelt. Die Berechtigung der Ansprüche apriorischer Erkenntnis auf strenge Allgemeinheit und Notwendigkeit der Geltung wird dargetan (deduziert), indem gezeigt wird, daß das "Reine", Apriorische der Erkenntnis für die Gegenstände der Erfahrung deshalb gelten kann, und gelten muß, weil es eine Bedingung objektiver Erfahrung selbst ist (s. Deduktion, Kategorien). Das "Reine" der Vernunft (im weitesten Sinne) ist die "Form", in die alles eingehen muß, um Erfahrung zu werden; Erfahrung (s. d.) selbst ist eine Funktion der das Material von Sinnesdaten einheitlich verarbeitenden reinen Vernunft (s. Verstand).
 
-
-
 Was die Kritik "entwirft" und ihre Methode
 > Die Kritik der reinen Vernunft entwirft das System der apriorischen Grundlagen, Voraussetzungen der Wissenschaft, von deren reinem Teil, dem Apriorischen, sie die "Möglichkeit", die Anwendbarkeit auf und Gültigkeit für die Erfahrungswirklichkeit dartut. Ihre Methode ist die "transzendentale" (s. d.), d. h. sie zeigt die in der reinen Vernunft liegenden Formen und Gesetze auf und untersucht, was aus ihnen für die Erkenntnis und deren Objekte folgt (synthetisch-progressive Methode), oder sie geht von der Erkenntnis zu den Quellen, zu den notwendigen Bedingungen derselben zurück (analytisch-regressive Methode).
-
 
 Die einzelnen Teile: transzendentale Ästhetik, Logik und Dialektik
 > Die transzendentale Ästhetik (s. d.) zeigt die Bedeutung der Formen der Anschauung für die Erkenntnis, die transzendentale Logik (s. d.) die der Kategorien und Grundsätze, die transzendentale Dialektik (s. d.) endlich die Leistung der "Ideen" (s. d.), welche als "regulative" Prinzipien unentbehrlich sind, in ihrem Mißbrauch aber zu "Antinomien" (s. d.), zu Widersprüchen und einem bloßen Scheine metaphysischer Erkenntnis führen.
@@ -40,15 +37,15 @@ Die einzelnen Teile: transzendentale Ästhetik, Logik und Dialektik
 
 Dans l’extrait, on trouve une conclusion concise de l’épistémologie de Kant, comme elle est la conséquence de sa *révolution copernicienne* et qui prend la question fondamentale du rapport de la pensée à l’être comme le point de départ.
 
-Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations. Ces dernières ont une « cause non sensible » mais elle est « totalement inconnue », puisque elle est dehors l’espace et le temps. C’est pourquoi la cause non sensible n’est pas un objet, quel est caractérisé d’être représenté dans l’espace et le temps qui « sont conditions » de notre pensée.
-    "pensée" ist zu ungenau vielleicht? muss man erst mal gucken wie kant diesen begriff verwendet.
-D’autant que ce non-objet s’égrène comme correspondant de représentations, Kant introduit l’objet transcendantal comme un dispositif supplétif, quel est « donné en soi-même, avant toute expérience ». Il est la monde « extérieur » pour Kant, car il contient « toute l’étendue et toute l’articulation de nos perceptions possibles ». Par conséquent, l’objet transcendantal comporte le passé qui n’est qu’une *chaîne de l’expérience* possible.
+Le pouvoir sensible d’intuition, notre sensibilité, consiste d’être affecté par des représentations. Ces dernières ont une « cause non sensible » mais elle est « totalement inconnue », puisque elle est dehors l’espace et le temps. C’est pourquoi la cause non sensible n’est pas un objet, quel est caractérisé d’être représenté dans l’espace et le temps qui « sont conditions » de notre pensée. D’autant que ce non-objet s’égrène comme correspondant de représentations, Kant introduit l’objet transcendantal comme un dispositif supplétif, quel est « donné en soi-même, avant toute expérience ». Il est la monde « extérieur » pour Kant, car il contient « toute l’étendue et toute l’articulation de nos perceptions possibles ». Les perceptions *possibles* sont des phénomènes ou simples représentations qui doivent être transformé dans l’expérience avant devenir perceptions. En d’autres termes, ces représentations n’existent que dans l’expérience et « qui ne renvoient à un objet effectivement réel qu’en tant que perceptions ».
 
-Les perceptions *possibles* sont des phénomènes ou simples représentations qui doivent être transformé dans l’expérience avant devenir perceptions.
-    hier gibt es noch eine unstimmigkeit: es ist sowohl von perceptions possible als auch von expérience possible die rede. und siehe da, kant hat das gar nicht geschrieben:
+ Par conséquent, l’objet transcendantal comporte les choses effectivement réelles du passé.
+welche für mich nur (Gegenstände und in der Vergangenheit) wirklich sind, wenn ich sie mir als Bedingungen für die Gegenwart vorstelle. (Aber sie sind es nicht "wirklich"?)
+
+
 > Cependent, cette dernière série n'est alors représentée comme effectivement réelle que si elle s'inscrit dans l'enchaînement d'une expérience possible, et non pas en soi, si bien que tous les événements qui se sont écoulés avant mon existence et depuis un temps immémorial ne signifient pourtant rien d'autre que la possibilité de prolonger la chaîne de l'expérience en régressant à partir de la perception présente, vers les conditions qui la déterminent chronologiquement.
 
-En d’autres termes, ces représentations n’existent que dans l’expérience et « qui ne renvoient à un objet effectivement réel qu’en tant que perceptions ».
+
 
 Et ce n’est pas la seule condition pour les représentations devenant perceptions. Il faut en plus que les perceptions constituent une cohérence, selon certaines règles, qui ne sont pas précisés dans l’extrait.
 
