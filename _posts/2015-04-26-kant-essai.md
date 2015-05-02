@@ -50,26 +50,5 @@ Ce paragraph résumant, on constat une tautologie. La sensibilité est un pouvoi
 Toute connaissance a besoin de l'intuition sensible extérieure ou intérieure, parce que sans elle notre notions sont vides. Par contre, une intuition démunie de notions est aveugle. On sous-entend ici des notions pure, qui jaillissent de l'entendement, independant de l'intuition. Par conséquent, l'intuition et ces notions pure constituent une unité.
 
 
-[@KantMund, § 10 (V 2, 102) *De mundi sensibilis atque intelligibilis forma et principiis, 1770*; cité selon @Eisler1930, lemme *Anschauung, intellektuelle*]
-
-
-On peut constat ainsi 0000 chose. (1) ... (2)
-
-Elle contient les formes et pouvoirs de l'intuition. Les formes de l'intuition sont à la fois (?) formes de la sensibilité. [@Eisler1930, lemme *Anschauungsformen*, [en ligne](http://www.textlog.de/31936.html)]
- est-ce qu'il y a une systematication de formes et pouvoirs d'intuition? 
-les formes d'intuition: espace, temps ... encore?
-l'intuition --------- est la --------
-
-La sensibilité est un pouvoir d'intuition (avec des formes a priori), en tent que tel, elle est intuition sensible (?)
-La sensibilité est d'une part dans la connaissance ce qui est simplement subjective, d'autre part elle est limite et condition necessaire de cette connaissance, qui est diminué à l'expérience.
-
-__Expérience__
-
-deux signification de l'expérience
-1. l'experience comme la perception et ce qu'est donnée par elle, est abstrait d'elle. Elle est changeante mais une base indespensable de la connaissance.
-2.  l'experience au sens strict
-
-> Diese apriorischen Faktoren, die Anschauungsformen, Kategorien und transzendentalen Grundsätze sind Bedingungen der 2. Erfahrung im engeren Sinne, des allgemeingültigen Zusammenhanges von Daten zu einer Erfahrung und des Prozesses der Verknüpfung solcher Daten zu objektiver Einheit. Die Erfahrung in diesem Sinne besteht also aus etwas rein Empirischem und etwas Apriorischem; sie ist selbst schon ein Erzeugnis des Intellekts, des Verstandes, und setzt etwas als gültig voraus, was sich zwar in ihr konstant bewährt, aber nicht auf Wahrnehmung und Induktion sich stützt. Alle Erkenntnis ist erfahrende, in Erfahrungen fortschreitende Erkenntnis, aber die Erfahrung überhaupt ist nicht gegeben, sondern Verarbeitung eines sinnlich Gegebenen durch apriorische Erkenntnisformen. [@Eisler1930, lemme [*Erfahrung*](http://www.textlog.de/32820.html)]
-
 # 2. Critique de l’épistémologie de Kant
 
