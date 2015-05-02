@@ -18,7 +18,7 @@ Selon Kant « les choses effectivement réelles du passé [sont] données dans 
 # Introduction
 La théorie de la connaissance, qui se trouve dans la *Critique de la raison pure*, a jusqu’à aujourd’hui une grande influence sur notre pensée dans l’académie, la science et la vie. Sans Kant, nous ne pouvons pas comprendre une grande partie de l’épistémologie depuis le 19ᵉ siècle. Quelles sont les idées, développées dans la *Critique* qui sont tellement influentes, quel est son projet ? Kant est animé par l’idée de David Hume que la notion du lien entre cause et effet soit une manière d’entendement de pensée *a priori*, c'est-à-dire avant toute expérience, les concaténations des objets. Pour Kant ça ne suffit pas, il plaide pour « que la métaphysique tout entière dépend de notions de ce genre ». En plus, chez Hume, la notion de ce lien (entre cause et effet) est un fondement *a priori* pour penser les concaténations des objets, mais elle-même prend sa source dans l’expérience. Cependant Kant veut montrer que les notions *a priori* jaillissent d’entendement pur et ne pas de l’expérience. [@KantProl, p. 16-17] Il pose la question comment la raison peut-elle reconnaître quelque chose sans aucune expérience. Pourquoi on a des notions, demande-t-il, qui nous n’étaient jamais données par des phénomènes des objets. Son œuvre soit la critique des conditions de jugement de la raison pure.
 
-Hanns Eisler a démontré que la *Critique de la raison pure* ne soit pas un examen psychologique du développement de notre identification, mais justement *critique*, c’est-à-dire jugement de valeur et futilité […] de connaissance *a priori* et pure. [@Eisler1930, lemme *Kritik der reinen Vernunft*]
+Rudolf Eisler a démontré que la *Critique de la raison pure* ne soit pas un examen psychologique du développement de notre identification, mais justement *critique*, c’est-à-dire jugement de valeur et futilité […] de connaissance *a priori* et pure. [@Eisler1930, lemme *Kritik der reinen Vernunft*]
 
 
 
@@ -41,22 +41,26 @@ L'extrait présent comporte quelques-unes des notions important de la théorie d
 
 __Intuition et sensibilité__
 
-Qu'est-ce que *le pouvoir sensible d'intuition* qui Kant appèle *la réceptivité* et quel est son rapport à l'intuition et la sensibilité? L'intuition est le terme générique dans ce rapport. Elle est toujours intuition *passive* et en tant que telle, elle n'est possible que *sensible*.
+Qu'est-ce que *le pouvoir sensible d'intuition* qui Kant appèle une *réceptivité* et quel est son rapport à l'intuition et la sensibilité? Il paraît que l'intuition est le terme générique dans ce rapport. L'intuition de notre esprit soit toujours *passive*, écrit Kant, et en tant que telle, elle n'est possible que *sensible*, c'est-à-dire elle est dépendant de quelque chose incitant nos sens. Kant différencie elle de l'intuition *intellectuelle*, qui serait une intuition divine, car elle pourrait reconnaître les objet sans sensibilité. Quand il parle simplement de l'intuition il se réfère plutôt à l'intuition sensible. Et cette dernière n'est rien d'autre que justement la sensibilité, qui est ainsi passive, et qui est pour ca appelé une réceptivité.
 
-> Die Anschauung unseres Geistes ist "immer passiv und deshalb nur soweit möglich, als etwas unsere Sinne affizieren kann. Dagegen ist die göttliche Anschauung, welche das Prinzip der Gegenstände, nicht ihre Wirkung darstellt, da sie unabhängig ist, das Urbild (Archetypus) und deshalb eine vollkommen geistige (intellektuale)", Mund. sens. § 10 (V 2, 102).
+Mais ce paragraph résumant, on voir une tautologie. La sensibilité est un pouvoir d'intuition, notament le pouvoir sensible d'intuition. Ce pouvoir est indiscernable de l'intuition sensible qui est le même que la sensibilité.  
 
-Kant différencie elle de l'intuition *intellectuelle*, qui serait une intuition divine, car elle pourait reconnaître les objet sans sensibilité. Cette intuition *sensible* n'est rien d'autre que justement la sensibilité. Toute connaissance a besoin de l'intuition sensible extérieure ou intérieure, parce que sans elle notre notions sont vides. Par contre, une intuition démunie de notions est aveugle. On sous-entend ici des notions pure, qui jaillissent de l'entendement, independant de l'intuition. L'intuition et ces notions pure constituent par conséquent une unité.
+
+Toute connaissance a besoin de l'intuition sensible extérieure ou intérieure, parce que sans elle notre notions sont vides. Par contre, une intuition démunie de notions est aveugle. On sous-entend ici des notions pure, qui jaillissent de l'entendement, independant de l'intuition. Par conséquent, l'intuition et ces notions pure constituent une unité.
 [@Eisler1930, lemme *Anschauung* et *Anschauung, intellektuelle*, [en ligne](http://www.textlog.de/31941.html)]
+
+[@KantMund, § 10 (V 2, 102) *De mundi sensibilis atque intelligibilis forma et principiis, 1770*; cité selon @Eisler1930, lemme *Anschauung, intellektuelle*]
+
+
+On peut constat ainsi 0000 chose. (1) ... (2)
 
 Elle contient les formes et pouvoirs de l'intuition. Les formes de l'intuition sont à la fois (?) formes de la sensibilité. [@Eisler1930, lemme *Anschauungsformen*, [en ligne](http://www.textlog.de/31936.html)]
  est-ce qu'il y a une systematication de formes et pouvoirs d'intuition? 
 les formes d'intuition: espace, temps ... encore?
-l'intuition sensible est la sensibilité
 l'intuition --------- est la --------
 
-La sensibilité est une/la réceptivité
 La sensibilité est un pouvoir d'intuition (avec des formes a priori), en tent que tel, elle est intuition sensible (?)
-La sensibilité est d'une part dans la connaissance ce qu'est simplement subjective, d'autre part elle est limite et condition necessaire de cette connaissance, qui est diminué à l'expérience.
+La sensibilité est d'une part dans la connaissance ce qui est simplement subjective, d'autre part elle est limite et condition necessaire de cette connaissance, qui est diminué à l'expérience.
 
 __Expérience__
 
