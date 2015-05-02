@@ -23,5 +23,18 @@ Il est très claire disant que ce pouvoir est une réceptivité et donc passive
 
 
 
+> Die Bedeutung des aus reiner, von der Erfahrung unabhängiger Erkenntnisgesetzlichkeit Entspringenden für die Erkenntnis, die Tragweite, Anwendbarkeit, der Umfang und die Grenzen des Apriorischen (s. A priori) werden ermittelt. Die Berechtigung der Ansprüche apriorischer Erkenntnis auf strenge Allgemeinheit und Notwendigkeit der Geltung wird dargetan (deduziert), indem gezeigt wird, daß das "Reine", Apriorische der Erkenntnis für die Gegenstände der Erfahrung deshalb gelten kann, und gelten muß, weil es eine Bedingung objektiver Erfahrung selbst ist (s. Deduktion, Kategorien). Das "Reine" der Vernunft (im weitesten Sinne) ist die "Form", in die alles eingehen muß, um Erfahrung zu werden; Erfahrung (s. d.) selbst ist eine Funktion der das Material von Sinnesdaten einheitlich verarbeitenden reinen Vernunft (s. Verstand). (eisler, KrV)
+
+Was die Kritik "entwirft" und ihre Methode  
+
+> Die Kritik der reinen Vernunft entwirft das System der apriorischen Grundlagen, Voraussetzungen der Wissenschaft, von deren reinem Teil, dem Apriorischen, sie die "Möglichkeit", die Anwendbarkeit auf und Gültigkeit für die Erfahrungswirklichkeit dartut. Ihre Methode ist die "transzendentale" (s. d.), d. h. sie zeigt die in der reinen Vernunft liegenden Formen und Gesetze auf und untersucht, was aus ihnen für die Erkenntnis und deren Objekte folgt (synthetisch-progressive Methode), oder sie geht von der Erkenntnis zu den Quellen, zu den notwendigen Bedingungen derselben zurück (analytisch-regressive Methode). (eisler, KrV)
+
+Die einzelnen Teile: transzendentale Ästhetik, Logik und Dialektik  
+
+> Die transzendentale Ästhetik (s. d.) zeigt die Bedeutung der Formen der Anschauung für die Erkenntnis, die transzendentale Logik (s. d.) die der Kategorien und Grundsätze, die transzendentale Dialektik (s. d.) endlich die Leistung der "Ideen" (s. d.), welche als "regulative" Prinzipien unentbehrlich sind, in ihrem Mißbrauch aber zu "Antinomien" (s. d.), zu Widersprüchen und einem bloßen Scheine metaphysischer Erkenntnis führen. (Eisler, KrV)
+
+
+
+
 [^1]: Nouveau pour moir: *Weltanschauung* est parfois non traduit en usage, en [France](http://fr.wikipedia.org/wiki/Weltanschauung) et dans le [monde anglo-saxonne](http://en.wikipedia.org/wiki/World_view).  
 [^2]: Cette définition dérive du [Larousse](http://www.larousse.fr/dictionnaires/francais/intuition/44033)
