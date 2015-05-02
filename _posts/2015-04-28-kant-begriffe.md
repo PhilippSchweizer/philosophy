@@ -13,15 +13,13 @@ date: 2015-04-28
 {% include _toc.html %}
 
 ## Anschauung  
-> Alle Erkenntnis bedarf der sinnlichen Anschauung, der äußeren oder inneren. Ohne Anschauung sind unsere Begriffe leer, sie sind rein formale Gedanken ohne Gegenstand. Das Denken liefert nur an der Hand von Anschauungsmaterial Erkenntnis, obzwar es "reine" Begriffe (Kategorien) gibt, die unabhängig von sinnlicher Anschauung im Verstande entspringen. Ohne Begriffe anderseits ist die Anschauung "blind", sie kann für sich allein keine Bestimmung und keinen inneren Zusammenhang gewähren; nur das Material zu einer Erkenntnis ist durch sie — für das Denken — gegeben. (Eisler, Anschauung)
+> Alle Erkenntnis bedarf der sinnlichen Anschauung, der äußeren oder inneren. Ohne Anschauung sind unsere Begriffe leer, sie sind rein formale Gedanken ohne Gegenstand. Das Denken liefert nur an der Hand von Anschauungsmaterial Erkenntnis, obzwar es "reine" Begriffe (Kategorien) gibt, die unabhängig von sinnlicher Anschauung im Verstande entspringen. Ohne Begriffe anderseits ist die Anschauung "blind", sie kann für sich allein keine Bestimmung und keinen inneren Zusammenhang gewähren; nur das Material zu einer Erkenntnis ist durch sie — für das Denken — gegeben. (Eisler, [Anschauung](http://www.textlog.de/31941.html))
 
-### Anschauung, reine  
 
 ### reine Anschauung des Raumes und der Zeit /  intuition pure de l'espace et du temps
 
-### Anschauung, intellektuelle  
 
-### sinnliches Anschauungsvermögen
+### sinnliches Anschauungsvermögen / le pouvoir sensible d'intuition
 
 
 ## Sinnlichkeit  

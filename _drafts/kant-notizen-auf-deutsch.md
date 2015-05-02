@@ -2,6 +2,9 @@
 title: "deutsche Notizen zum Kant-Essay"
 ---
 
+
+...sie sind aber nur wirklich, wenn ich mir vorstelle, dass der Weltlauf auf eine verflossene Zeitreihe führt, die die Bedingung für die Gegenwart ist. --> sie sind nur in der Vorstellung wirklich. Wirkung und Wirklichkeit existieren nicht außerhalb und unabhänging von unserem Bewusstsein. Sowohl Gegenwart als auch Vergangenheit "existieren" nicht ontologisch, sondern nur transzendental (?) Vergangenheit ist nicht das, was sich unabhängig von uns "ereignet" hat, sondern nur eine Kette möglicher Erfahrungen.
+
 Was heißt Anschauung? Zunächst das Verb; etwas *anschauen* bedeutet nichts weiter als etwas zu betrachten oder zu untersuchen. So wird zum Beispiel eine Ärztin zu ihrem Patienten sagen: "Ich werde mir das mal anschauen." Vorläufig kann man also festhalten, dass die *Anschauung* den Prozess des Untersuchens und zugleich das Ergebnis davon bezeichnet. So kommt die Ärztin dann zu einer Ansicht oder eben *Anschauung* über den Gesundheitszustand ihres Patienten. Und auch im Begriff der *Weltanschauung* ist diese, man ist versucht zu sagen *dialektische*, Einheit von Prozess und Ergebnis einer Betrachtung am Werk, der des Weltganzen. Prozess und Ergebnis formen hier in einem fortwährenden Hin und Her eine Weltanschauung, welche somit auch eine Anneignung darstellt.  
 Das scheint Kant jedenfalls nicht zu meinen, wenn er von *sinnlicher* Anschauung (als einem Vermögen) spricht.
 
