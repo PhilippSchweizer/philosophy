@@ -42,12 +42,6 @@ L’extrait présent comporte quelques-unes des notions importantes de la théor
 
 __Intuition et sensibilité__
 
+Qu’est-ce que *le pouvoir sensible d’intuition* que Kant appelle une *réceptivité* et quel est son rapport à l’intuition et la sensibilité ? Il paraît que l’intuition est le terme générique dans ce rapport. L’intuition de notre esprit soit toujours *passive*, écrit Kant, et en tant que telle, elle n’est possible que *sensible*, c’est-à-dire elle est dépendante de quelque chose incitant nos sens. Kant différencie elle de l’intuition *intellectuelle*, qui serait une intuition divine, car elle pourrait reconnaître les objets sans sensibilité. Quand il parle simplement de l’intuition il réfère plutôt à l’intuition sensible. Et cette dernière n’est rien d’autre que justement la sensibilité, qui est ainsi passive, et qui est pour ça appelé une réceptivité. Elle a des formes *a priori*, car elle est un pouvoir de l’intuition. [@Eisler1930, lemme *Anschauung* et *Anschauung, intellektuelle*, [en ligne](http://www.textlog.de/31941.html)]
 
-Ce paragraph résumant, on constat une tautologie. La sensibilité est un pouvoir de l'intuition, notament le pouvoir *sensible* d'intuition. Ce pouvoir est indiscernable de l'intuition sensible qui est le même que la sensibilité. Ca ne désigne que la recherche était trop superficielle, et que l'utilisation d'une dictionnaire comme le *Kant-Lexikon* comporte  
- ne veut pas dire, que Kant a travail
-
-
-Toute connaissance a besoin de l'intuition sensible extérieure ou intérieure, parce que sans elle notre notions sont vides. Par contre, une intuition démunie de notions est aveugle. On sous-entend ici des notions pure, qui jaillissent de l'entendement, independant de l'intuition. Par conséquent, l'intuition et ces notions pure constituent une unité.
-
-
-# 2. Critique de l’épistémologie de Kant
+En résumant ce paragraphe, on constate une tautologie. La sensibilité est un pouvoir de l’intuition, notamment le pouvoir *sensible* d’intuition. Ce pouvoir est indiscernable de l’intuition sensible qui est le même que la sensibilité. Ça ne désigne que la recherche était trop superficielle, et que l’utilisation d’un dictionnaire comme le *Kant-Lexikon* comporte le danger d'enlever les notions de leur contexte. Toutefois, s’ils ne sont pas identiques, les termes sont très proches. Et il faut conclure, que chez Kant, toute connaissance a besoin de l’intuition sensible extérieure ou intérieure, parce que sans elle nos notions sont vides. Par contre, une intuition démunie de notions est aveugle. On sous-entend ici des notions pures, qui jaillissent de l’entendement, indépendant de l’intuition. Par conséquent, l’intuition et ces notions pures constituent une unité.
