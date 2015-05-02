@@ -35,6 +35,91 @@ Die einzelnen Teile: transzendentale Ästhetik, Logik und Dialektik
 
 
 
+L'intuition est passive...  
+L'intuition n'est pas conscient, elle reste vague, même obscure parce qu'elle signifie une etappe avant la connaissance. Elle delivre le materiel pour la connaissance sans devoir agir. Elle semble d'un automatisme. Comment Kant justifiait-il que notre action (et pensée) n'est pas determinée (la question du libre arbitre? Est-il possible pour le pensée, pour la raison ou l'entendement, de focuser l'intuition dans une certain direction?  
+À propos automatisme: le processus d'acquisition de la connaissance commence pour Kant avec cette unité de l'intuition et les notions pure. Mais cette unité *fait* rien, elle est simplement là. La travail commence *après*, c'est-à-dire dans l'entendement. Faut-il dire ainsi sur Kant, ce que Marx et Engels avaient dit sur l'idealisme, c'est que l'aspect actif de l'intuition n'existe que abstrait dans l'idealisme, car il connait pas "l'activité réelle, concrète, comme telle."
+
+Certes, 
+Évidemment Kant parle sur des "choses effectivement réelles"
+
+pas alors l'intuition sensible et *active*. Ce que Marx et Engels ont reproché Feuerbach, que
+
+> Le principal défaut, jusqu'ici, du matérialisme de tous les philosophes – y compris celui de Feuerbach est que l'objet, la réalité, le monde sensible n'y sont saisis que sous la forme d'objet ou d'intuition, mais non en tant qu'activité humaine concrète, en tant que pratique, de façon non subjective. __C'est ce qui explique pourquoi l'aspect actif fut développé par l'idéalisme, en opposition au matérialisme, — mais seulement abstraitement, car l'idéalisme ne connaît naturellement pas l'activité réelle, concrète, comme telle.__ Feuerbach veut des objets concrets, réellement distincts des objets de la pensée; mais il ne considère pas l'activité humaine elle-même en tant qu'activité objective. C'est pourquoi dans l'Essence du christianisme, il ne considère comme authentiquement humaine que l'activité théorique, tandis que la pratique n'est saisie et fixée par lui que dans sa manifestation juive sordide. C'est pourquoi il ne comprend pas l'importance de l'activité "révolutionnaire", de l'activité "pratique-critique". [voir en ligne](https://www.marxists.org/francais/marx/works/1845/00/kmfe18450001.htm)
+
+> Der Hauptmangel alles bisherigen Materialismus – den Feuerbachschen mit eingerechnet – ist, daß der Gegenstand, die Wirklichkeit, Sinnlichkeit, nur unter der Form des Objekts oder der Anschauung gefaßt wird; nicht aber als menschliche sinnliche Tätigkeit, Praxis, nicht subjektiv. Daher geschah es, daß die tätige Seite, im Gegensatz zum Materialismus, vom Idealismus entwickelt wurde – aber nur abstrakt, da der Idealismus natürlich die wirkliche, sinnliche Tätigkeit als solche nicht kennt. [@MEW3, p. 533, These I [voir en ligne](https://www.marxists.org/deutsch/archiv/marx-engels/1845/thesen/thesfeue.htm)] 
+
+> Die Frage, ob dem menschlichen Denken gegenständliche Wahrheit zukomme, ist keine Frage der Theorie, sondern eine praktische Frage. In der Praxis muß der Mensch die Wahrheit, d.h. die Wirklichkeit und Macht, die Diesseitigkeit seines Denkens beweisen. Der Streit über die Wirklichkeit oder Nichtwirklichkeit eines Denkens, das sich von der Praxis isoliert, ist eine rein scholastische Frage.
+
+
+
+
+
+
+On a dit déjà que l'extrait comporte un très courte mais neanmoins aidant résumé de théorie de la connaissance de Kant. I  
+
+
+La théorie de la connaissance de Kant ...  
+... est l'essai de ...  
+... a l'objet transcendantal, la chose en soi, comme point crucial  
+... depart à une analyse de l'intuition (?) OU à  
+... La réalité n'existe que dans les représentations, c.a.d. dans l'expérience, c.a.d. dans l'esprit. Elle n'est pas ce que faire de l'effet (en soi).  
+... la chose en soi: point de départ de plusieurs critiques à Kant.  
+... l'intuition: un rapport fixe et mental entre l'homme et la nature.
+    l'intuition reste intuition sensible. il manque la dimension d'action, du travail. un pro
+
+### mes questions et problemes face à l'extrait
++ n'est pas claire pour moi: si la chose en soi, l'objet transcendantal est la cause non sensible des représentations ... STOP ... l'objet transcendantal n'est pas la cause non sensible! La cause non sensible n'est pas un objet, alor elle n'est l'objet *transcendantal* non plus
++ Si je comprend Kant bien: Le materiel de notre sensibilité sont les représentations pas d'un objet mais ils même sont des objets. Objet de notre sensibilité sont les représentations de l'objet transcendantal (= chose en soi).
++ il existe une *cause non sensible* dont la seule chose qui nous pouvons dire la-dessus est, quelle est dehors l'espace et le temps. Ou peut etre à l'inverse: Parce que cette cause est dehors l'espace et le temps, elle est *non sensible*, car l'espace et le temps sont des formes de l'intuition. MAIS comment on sais que, il y a quelque chose *non sensible dehors l'espace et le temps*? 
++ est-ce qu'on peut appeler les représentations d'objet transcendantal? Ou sont-ils représentations de l'apparence  
++ La chose en soi peut jamais (?) devenir la chose pour nous mais seulement leur apparence. La chose en soi existe, mais elle n'est pas ca à quoi Kant se réfère avec la notion de la monde exterieure. ???
++ la monde exterieur chez Kant est l'apparence des chose, derrière laquelle existe l'essence des chose le chose dit en soi. ???
+
+
+### ce que n'est pas expliqué
++ les règles de l'unité de l'expérience
+
+### la consequence epistemologique
++ l'espace et le temps sont des formes d'intuition et, en tant que tels, ils sont une forme de réceptivité. (siehe Eisler, Rezeptivität)  
++ ... c'est-à-dire que nous somme affecté par un inconnue totale  
+
+
+
+
+
+
+## Jakobi-argument (Critique de la separation entre l'apparence et la chose en soi)
+
+> Schon früh kritisierte Friedrich Heinrich Jacobi Kants Unterscheidung zwischen „Erscheinung“ und „Ding an sich“. Sein oft zitiertes Diktum lautet: „Wir müssen zwischen ‚Erscheinung‘ und ‚Ding an sich‘ unterscheiden. Sonst kommen wir nicht in Kants System hinein. Aber mit dieser Unterscheidung können wir nicht drinnen bleiben.“ Für Jacobi resultiert aus der Unterscheidung, dass für die Erkenntnis ein „äußeres“ Korrektiv nötig ist, wenn die Gefahr eines Solipsismus vermieden werden soll. Daher muss eine Affektion unseres Bewusstseins durch die Dinge an sich angenommen werden, also eine Kausalrelation zwischen „Ding an sich“ und unserer „Erfahrung“ bestehen. Kausalität ist für Kant aber eine Kategorie des Verstandes, die nur innerhalb der Erfahrung ihre eigentliche Bedeutung hat.
+
+
++ Kant regarde la chose en soi ou l'essence (Wesen) d'objet comme non reconnaissable et ca lui oblige de rester epistemologiquement à la suface des phénomènes.
++ il n y a pas
+
+
+## Comment il faut critiquer un œuvre de philosophie ?
+
+
+## Comment critiquer Kant ? Quelle est le sens de cette critique ?
+
+Il n’y a pas de la neutralité dans la philosophie. Il faut se positionner et…
+
+
+
+
+# Conclusion
+
+
+
+
+# Bibliographie
+
+
+
+
+# Notes
+
+
 
 [^1]: Nouveau pour moir: *Weltanschauung* est parfois non traduit en usage, en [France](http://fr.wikipedia.org/wiki/Weltanschauung) et dans le [monde anglo-saxonne](http://en.wikipedia.org/wiki/World_view).  
 [^2]: Cette définition dérive du [Larousse](http://www.larousse.fr/dictionnaires/francais/intuition/44033)
