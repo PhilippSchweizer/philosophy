@@ -4,6 +4,8 @@ title: "Kant et la capacité de la connaissance du monde"
 modified: 2015-05-02
 excerpt:
 tags: [kant, essay, fr]
+image: immanuelkantkoenigsbergerdom.jpg
+  feature: © Chip Hires/Gamma-Rapho/Getty Images
 date: 2015-04-26
 ---
 
