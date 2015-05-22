@@ -2,7 +2,7 @@
 layout: post
 title: "Kant et la capacité de la connaissance du monde"
 modified: 2015-05-02
-excerpt:
+excerpt: "Selon Kant « les choses effectivement réelles du passé [sont] données dans l’objet transcendantal de l’expérience. » Qu’est-ce qu’il veut dire avec ça et quelle est la conséquence pour notre capacité de la connaissance du monde ? Cet essai va plonger dans un de la *Critique de la raison pure* et examiner la théorie de la connaissance de Kant pour la critiquer ensuite."
 tags: [kant, essay, fr]
 image: 
   feature: 
@@ -13,11 +13,13 @@ date: 2015-04-26
 
 
 <figure>
-    <img src="images/immanuelkantkoenigsbergerdom.jpg">
+    <a href="/images/immanuelkantkoenigsbergerdom.jpg">
+    <img src="/images/immanuelkantkoenigsbergerdom.jpg"></a>
     <figcaption>© Chip Hires/Gamma-Rapho/Getty Images</figcaption>
 </figure>
 
 Selon Kant « les choses effectivement réelles du passé [sont] données dans l’objet transcendantal de l’expérience. » Qu’est-ce qu’il veut dire avec ça et quelle est la conséquence pour notre capacité de la connaissance du monde ? Cet essai va plonger dans un de la *Critique de la raison pure* et examiner la théorie de la connaissance de Kant pour la critiquer ensuite.
+
 
 
 {% include _toc.html %}
